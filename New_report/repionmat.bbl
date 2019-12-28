@@ -1,0 +1,762 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\iflanguage{russian}{\hbox
+  to.8em{--\hss--}}{\textemdash}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em plus
+  0.1em\fi
+\cyrdash\hskip.2em plus 0.1em\ignorespaces}
+\renewcommand{\newblock}{\ignorespaces}
+
+\bibitem{70/678-T}
+\selectlanguageifdefined{russian}
+НАУЧНО-ТЕХНИЧЕСКИЙ ОТЧЁТ ПО НИР
+  «Расширение баз данных, физических
+  моделей и алгоритмов радиационного
+  переноса для моделирования углового
+  распределения нейтронов в реакциях
+  нейтронного размножения и реакциях
+  синтеза в комплексе ТРТ с применением
+  алгоритмов для графических ускорителей».
+  Шифр темы «Вычислитель».~: {Отчет}~: 70/678-T~/
+  ВНИИА~; {исполн.}: С.~Е.~Куратов, М.~В.~Косов,
+  Д.~И.~Савин, А.~А.~Галюзов~: 2018.
+
+\bibitem{70/662-T}
+\selectlanguageifdefined{russian}
+НАУЧНО-ТЕХНИЧЕСКИЙ ОТЧЁТ ПО НИР
+  «Совершенствование физических моделей
+  взаимодействия излучений с веществом:
+  совершенствование модели упругого
+  ион-ионного рассеяния в конструкционных
+  материалах». Шифр темы «Сочетание».~:
+  {Отчет}~: 70/662-T~/ ВНИИА~; {исполн.}:
+  С.~Е.~Куратов, М.~В.~Косов, C.~Ю.~Игашов и~др.~:
+  2018.
+
+\bibitem{Geant4.1}
+\selectlanguageifdefined{english}
+\BibEmph{Agostinelli~S., et~al. The Geant4~Collaboration}. Geant4 - a
+  simulation toolkit~// \BibEmph{Nuclear Instruments and Methods A}. \BibDash
+\newblock 2003. \BibDash March. \BibDash
+\newblock Vol. 506. \BibDash
+\newblock P.~250--303.
+
+\bibitem{Geant4.2}
+\selectlanguageifdefined{english}
+\BibEmph{Allison~J., et~al.~the Geant4~Collaboration}. Geant4 developments and
+  applications~// \BibEmph{IEEE Transactions on Nuclear Science}. \BibDash
+\newblock 2006. \BibDash January. \BibDash
+\newblock Vol.~53. \BibDash
+\newblock P.~270--278.
+
+\bibitem{70/519-T}
+\selectlanguageifdefined{russian}
+НАУЧНО-ТЕХНИЧЕСКИЙ ОТЧЕТ ПО НИР
+  «Расширение баз данных и развитие
+  многопроцессорных алгоритмов
+  программного комплекса ТРТ для ускорения
+  моделирования радиационного переноса
+  нейтронов». Шифр темы «Вычислитель».~:
+  {Отчет}~: 70/519-T~/ ВНИИА~; {исполн.}:
+  С.~Е.~Куратов, М.~В.~Косов, Д.~И.~Савин,
+  А.~А.~Галюзов~: 2017.
+
+\bibitem{Calibr}
+\selectlanguageifdefined{russian}
+\BibEmph{Гришняев~Е.~С.} Генератор быстрых
+  нейтронов для калибровки детекторов
+  слабовзаимодействующих частиц.~//
+  \BibEmph{Новосибирск, диссертация на
+  соискание степени к. ф.-м. н.} \BibDash
+\newblock 2016.
+
+\bibitem{NSiDet}
+\selectlanguageifdefined{russian}
+\BibEmph{Замятин~Н.~И., Черемухин~А.~Е.,
+  Шафроновская~А.~И.} Способ измерения
+  флюенса быстрых нейтронов с помощью
+  планарных кремниевых детекторов~//
+  \BibEmph{Письма в ЭЧАЯ}. \BibDash
+\newblock 2017. \BibDash
+\newblock Т.~14. \BibDash
+\newblock {С.}~529.
+
+\bibitem{PSTAR}
+\selectlanguageifdefined{english}
+PSTAR: NIST Stopping-power and range tables for protons. \BibDash
+\newblock \url{https://physics.nist.gov/PhysRefData/Star/Text/PSTAR.html}.
+
+\bibitem{ASTAR}
+\selectlanguageifdefined{english}
+ASTAR: NIST Stopping-power and range tables for helium ions. \BibDash
+\newblock \url{https://physics.nist.gov/PhysRefData/Star/Text/ASTAR.html}.
+
+\bibitem{ESTAR}
+\selectlanguageifdefined{english}
+ESTAR: NIST Stopping-power and range tables for electrons. \BibDash
+\newblock \url{https://physics.nist.gov/PhysRefData/Star/Text/ESTAR.html}.
+
+\bibitem{TeorDEDX}
+\selectlanguageifdefined{english}
+\BibEmph{Sternheimer~R.~M., Peierls~R.~F.} General Expression for the Density
+  Effect for the Ionization Loss of Charged Particles~// \BibEmph{Phys. Rev.
+  B}. \BibDash
+\newblock 1971. \BibDash
+\newblock Vol.~3. \BibDash
+\newblock P.~3681.
+
+\bibitem{pipmDEDX}
+\selectlanguageifdefined{english}
+\BibEmph{Barkas~W.~H., Birnbaum~W., Smith~F.~M.}~// \BibEmph{Phys. Rev.}
+  \BibDash
+\newblock 1956. \BibDash
+\newblock Vol. 101. \BibDash
+\newblock P.~778.
+
+\bibitem{papDEDX}
+\selectlanguageifdefined{english}
+\BibEmph{Agnello~M., et. al.}~// \BibEmph{Phys. Rev. Lett.} \BibDash
+\newblock 1995. \BibDash
+\newblock Vol.~74. \BibDash
+\newblock P.~371.
+
+\bibitem{Bichsel90}
+\selectlanguageifdefined{english}
+\BibEmph{Bichsel~H.} Barkas Effect and Effective Charge in the Theory of
+  Stopping Power~// \BibEmph{Phys. Rev. A}. \BibDash
+\newblock 1990. \BibDash
+\newblock Vol.~41. \BibDash
+\newblock P.~3642.
+
+\bibitem{LindhardBarkas76}
+\selectlanguageifdefined{english}
+\BibEmph{Lindhard~J.} The Barkas Effect -- or Z^3_1, Z^4_1 Corrections to
+  Stopping of Swift Charged Particles~// \BibEmph{Nucl. Instr. Meth.} \BibDash
+\newblock 1976. \BibDash
+\newblock Vol. 132. \BibDash
+\newblock P.~1.
+
+\bibitem{DEDXICRU49}
+\selectlanguageifdefined{english}
+\BibEmph{Berger~M.~J., M.~Inokuti~H. H.~Andersen~H. Bichsel D. Powers S. M.
+  Seltzer D. Thwaites D. E.~Watt}. Stopping Powers and Ranges for Protons and
+  Alpha Particles, Report 49~// \BibEmph{J. Inter. Com. Rad. Un. Meas.}
+  \BibDash
+\newblock 1993.
+
+\bibitem{Paul1}
+\selectlanguageifdefined{english}
+\BibEmph{Paul~H.} Some new results on stopping power for fast ions~//
+  \BibEmph{AIP Conf. Proc.} \BibDash
+\newblock 2009. \BibDash
+\newblock Vol. 1099. \BibDash
+\newblock P.~251.
+
+\bibitem{Paul2}
+\selectlanguageifdefined{english}
+\BibEmph{Paul~H.} New results about stopping power for positive ions:
+  experiment and theory~// \BibEmph{AIP Conf. Proc.} \BibDash
+\newblock 2013. \BibDash
+\newblock Vol. 1525. \BibDash
+\newblock P.~295.
+
+\bibitem{Paul3}
+\selectlanguageifdefined{english}
+\BibEmph{Paul~H.} Nuclear stopping power and its impact on the determination of
+  electronic stopping power~// \BibEmph{AIP Conf. Proc.} \BibDash
+\newblock 2013. \BibDash
+\newblock Vol. 1525. \BibDash
+\newblock P.~309.
+
+\bibitem{Peierls42}
+\selectlanguageifdefined{english}
+Energy distribution of fission neutrons~: Rep.~: MS-65~/ DTA Report~; Executor:
+  R.~Prierls~: 1942.
+
+\bibitem{Weiss37}
+\selectlanguageifdefined{english}
+\BibEmph{Weisskopf~V.F.}~// \BibEmph{Statistics and Nuclear Reactions}.
+  \BibDash
+\newblock 1937. \BibDash
+\newblock Vol.~52. \BibDash
+\newblock P.~295.
+
+\bibitem{Watt52}
+\selectlanguageifdefined{english}
+\BibEmph{Watt~B.E.}~// \BibEmph{Energy Spectrum of Neutrons from Thermal
+  Fission of $^{235}U$}. \BibDash
+\newblock 1952. \BibDash
+\newblock Vol.~87. \BibDash
+\newblock P.~1037.
+
+\bibitem{ENDF/B-VII.1}
+\selectlanguageifdefined{english}
+\BibEmph{Chadwick~M.~B., et~al.} Nuclear Data for Science and Technology: Cross
+  Sections, Covariances, Fission Product Yields and Decay Data~//
+  \BibEmph{Nuclear Data Sheets}. \BibDash
+\newblock 2011. \BibDash December. \BibDash
+\newblock Vol. 112. \BibDash
+\newblock P.~2887--2996.
+
+\bibitem{Capote16}
+\selectlanguageifdefined{english}
+\BibEmph{Capote~R. et~al.} Prompt Fission Neutron Spectra of Actinides.
+
+\bibitem{Nefed83}
+\selectlanguageifdefined{english}
+\BibEmph{Nefedov~V.N., Starostov~B.I., Boytsov~A.A.} Precision Measurements of
+  $^{252}Cf$, $^{233}U$, $^{235}U$ and $^{239}Pu$ Prompt Fission neutrons~//
+  Proc. 6-th All-Union Conf. on Neutron Physics, Kiev. \BibDash
+\newblock Vol.~2. \BibDash
+\newblock 1983. \BibDash
+\newblock P.~285.
+
+\bibitem{Starost83}
+\selectlanguageifdefined{english}
+\BibEmph{Starostov~B.I., Nefedov~V.N., Boytsov~A.A.} Precision Measurements of
+  $^{252}Cf$, $^{233}U+n_{th}$, $^{235}U+n_{th}$ and $^{239}Pu+n_{th}$ Prompt
+  Fission neutrons in the energy range 2-11 MeV~// Proc. 6-th All-Union Conf.
+  on Neutron Physics, Kiev. \BibDash
+\newblock Vol.~2. \BibDash
+\newblock 1983. \BibDash
+\newblock P.~290.
+
+\bibitem{Starostov85}
+\selectlanguageifdefined{english}
+\BibEmph{Starostov~B.I., Nefedov~V.N., Boytsov~A.A.} Prompt neutron spectra
+  from fission of $^{233}$, $^{235}U$ and $^{239}Pu$ by thermal neutrons and
+  from spontaneous fission of $^{252}Cf$ in the 0.01 - 12 MeV Energy Range~//
+  \BibEmph{Vopr. At. Nauk. Tech., Ser. Yad. Konst.} \BibDash
+\newblock 1985. \BibDash
+\newblock Vol.~3. \BibDash
+\newblock P.~16.
+
+\bibitem{Lajtai85}
+\selectlanguageifdefined{english}
+Energy Spectrum Measurements of Neutrons for Energies 30 keV-4MeV from thermal
+  Fission of Main Fuel Elements~/ A.~Lajtai, J.~Kecskemeit, J.~Safar et~al.~//
+  Proc. Santa Fe 1985. \BibDash
+\newblock Vol.~769. \BibDash
+\newblock 1985. \BibDash
+\newblock P.~613.
+
+\bibitem{Wand89}
+\selectlanguageifdefined{english}
+Experimental study of the prompt neutron spectrum of $^{235}U$ fission induced
+  by thermal neutrons~/ Wang~Yufeng, Bai~Xixiang, Li~Anli et~al.~//
+  \BibEmph{Chin. J. Nucl. Phys.} \BibDash
+\newblock 1989. \BibDash
+\newblock Vol.~11. \BibDash
+\newblock P.~47.
+
+\bibitem{Kornilov10}
+\selectlanguageifdefined{english}
+The $^{235}U(n,f)$ Prompt Fission Neutron Spectrum at 100 K Input Neutron
+  Energy~/ N.V.~Kornilov, F.-J.~Hambsh, I.~Fabry et~al.~// \BibEmph{Nucl. Sci.
+  Eng.} \BibDash
+\newblock 2010. \BibDash
+\newblock Vol. 165. \BibDash
+\newblock P.~117.
+
+\bibitem{Vorobyev13}
+\selectlanguageifdefined{english}
+\BibEmph{Vorobyev~A.S., Shcherbakov~O.A.} Total prompt fission neutron spectrum
+  from thermal-neutron-induced fission of $^{235}U$~// \BibEmph{Vopr. At. Nauk.
+  Tech., Ser. Yad. Konst.} \BibDash
+\newblock 2013. \BibDash
+\newblock Vol. 1-2. \BibDash
+\newblock P.~37--54.
+
+\bibitem{MCNPX}
+\selectlanguageifdefined{english}
+\BibEmph{Waters~Laurie~S.} \BibDash
+\newblock MCNPX$^{TM}$ USERS'S MANUAL, 2.3.0 edition, 2002. \BibDash April.
+
+\bibitem{FREYA1}
+\selectlanguageifdefined{english}
+\BibEmph{Verbeke~J.M., Randrup~J., Vogt~R.} Fission reaction event yield
+  algorithm FREYA -- For event-by-event simulation of fission~// \BibEmph{Comp.
+  Phys. Commun.} \BibDash
+\newblock 2015. \BibDash
+\newblock Vol. 191. \BibDash
+\newblock P.~178--202.
+
+\bibitem{FREYA2}
+\selectlanguageifdefined{english}
+\BibEmph{Verbeke~J.M., Randrup~J., Vogt~R.} Fission reaction event yield
+  algorithm FREYA 2.0.2~// \BibEmph{Comp. Phys. Commun.} \BibDash
+\newblock 2018. \BibDash
+\newblock Vol. 222. \BibDash
+\newblock P.~263--266.
+
+\bibitem{PbP}
+\selectlanguageifdefined{english}
+\BibEmph{Tudora~A., Hambsch~F.-J.} Comprehensive overview of the Point-by-Point
+  model of prompt emission in fusion~// \BibEmph{Eur. Phys. J. A}. \BibDash
+\newblock 2017. \BibDash
+\newblock Vol.~53. \BibDash
+\newblock P.~159.
+
+\bibitem{Aldrich83}
+\selectlanguageifdefined{english}
+Neutron Spectra and Dose Equivalent Inside Nuclear Power Reactor Containment~:
+  Rep.~: PNL-3531 RH~/ Pacific Northwest Laboratory~; Executor: J.M.~Aldrich~:
+  1983.
+
+\bibitem{Fried2015}
+\selectlanguageifdefined{english}
+Influence of radiation damage on Krypton diffusion in silicon carbide~/
+  E.~Friedland, T.~T.~Hlatshwayo, N.~G.~van~der~Berg, M.~C.~Mabena~//
+  \BibEmph{Nucl. Instr. Meth. B}. \BibDash
+\newblock 2015. \BibDash
+\newblock Vol. 354. \BibDash
+\newblock P.~42.
+
+\bibitem{CHIPS_AP}
+\selectlanguageifdefined{english}
+\BibEmph{Kossov~M.~V.} Simulation of antiproton-nuclear annihilation at rest~//
+  \BibEmph{IEEE Trans. Sci.} \BibDash
+\newblock 2005. \BibDash
+\newblock Vol.~52. \BibDash
+\newblock P.~2832.
+
+\bibitem{70/435-T}
+\selectlanguageifdefined{russian}
+НАУЧНО-ТЕХНИЧЕСКИЙ ОТЧЕТ, подэтап 6.1
+  «Развитие программного комплекса ТРТ».
+  Определение энергетических
+  характеристик пучка ионов, проходящего
+  через толстые замедлители. Шифр темы
+  «ЦФПИ-Ядро».~: {Отчет}~: 70/435-T~/ ВНИИА~;
+  {исполн.}: С.~Е.~Куратов, М.~В.~Косов,
+  Д.~И.~Сорокин~: 2016.
+
+\bibitem{70/241-T}
+\selectlanguageifdefined{russian}
+ОТЧЕТ ПО ИССЛЕДОВАНИЯМ ЦЕНТРА
+  ФУНДАМЕНТАЛЬНЫХ И ПРИКЛАДНЫХ
+  ИССЛЕДОВАНИЙ ФГУП <<ВНИИА>> в 2014 г. подэтап
+  5.1 <<Развитие программного комплекса ТРТ>>:
+  Создание собственных электромагнитных
+  ТРТ алгоритмов.~: {Отчет}~: 70/241-T~/ ВНИИА~;
+  {исполн.}: С.~Е.~Куратов, М.~В.~Косов,
+  Д.~И.~Савин, Д.~И.~Сорокин~: 2014.
+
+\bibitem{Bethe}
+\selectlanguageifdefined{english}
+\BibEmph{Bethe~H.~A.}~// \BibEmph{Physical Review}. \BibDash
+\newblock 1953. \BibDash
+\newblock Vol.~89. \BibDash
+\newblock P.~1256.
+
+\bibitem{Lynch91}
+\selectlanguageifdefined{english}
+\BibEmph{Lynch~G.R., Dahl~O.I.} Approximations to multiple Coulomb
+  Scattering~// \BibEmph{Nucl. Instr. Meth. B}. \BibDash
+\newblock 1991. \BibDash
+\newblock Vol.~58. \BibDash
+\newblock P.~6--10.
+
+\bibitem{Scott}
+\selectlanguageifdefined{english}
+\BibEmph{Scott~W.~T.}~// \BibEmph{Review of Modern Physics}. \BibDash
+\newblock 1963. \BibDash
+\newblock Vol.~35. \BibDash
+\newblock P.~231.
+
+\bibitem{Shen}
+\selectlanguageifdefined{english}
+Measurement of multiple scattering at 50 to 200 GeV/c~/ G.~Shen,
+  C.~Ankenbrandt, M.~Atac et~al.~// \BibEmph{Physical Review D}. \BibDash
+\newblock 1979. \BibDash
+\newblock Vol.~20. \BibDash
+\newblock P.~1584.
+
+\bibitem{Wong}
+\selectlanguageifdefined{english}
+Gaussian distribution of modified Fermi theory~/ M.~Wong, W.~Schimmerling,
+  M.~H.~Phillips et~al.~// \BibEmph{Medical Physics}. \BibDash
+\newblock 1990. \BibDash
+\newblock Vol.~17. \BibDash
+\newblock P.~163.
+
+\bibitem{Eyges}
+\selectlanguageifdefined{english}
+\BibEmph{Eyges~L.} Multiple scattering with energy loss~// \BibEmph{Physical
+  Review}. \BibDash
+\newblock 1948. \BibDash
+\newblock Vol.~74. \BibDash
+\newblock P.~1534.
+
+\bibitem{RossiGreisen}
+\selectlanguageifdefined{english}
+\BibEmph{Rossi~B., Greisen~K.} Cosmic Ray Theory~// \BibEmph{Review of Modern
+  Physics}. \BibDash
+\newblock 1941. \BibDash
+\newblock Vol.~13. \BibDash
+\newblock P.~240.
+
+\bibitem{Kanematsu9}
+\selectlanguageifdefined{english}
+\BibEmph{Kanematsu~N.} Semi-empirical formulation of multiple scattering for
+  the Gaussian beam model of heavy charged particles stopping in tissue-like
+  matter~// \BibEmph{Physics in Medicine and Biology}. \BibDash
+\newblock 2009. \BibDash
+\newblock Vol.~54. \BibDash
+\newblock P.~N67.
+
+\bibitem{70/190-T}
+\selectlanguageifdefined{russian}
+ОТЧЕТ ПО ИССЛЕДОВАНИЯМ ЦЕНТРА
+  ФУНДАМЕНТАЛЬНЫХ И ПРИКЛАДНЫХ
+  ИССЛЕДОВАНИЙ ФГУП <<ВНИИА>> в 2015 г. подэтап
+  5.1 <<Развитие программного комплекса ТРТ>>:
+  Валидация ТРТ моделирования угловых
+  распределений неупругого
+  нейтрон-ядерного рассеяния и перехода к
+  логарифмическим таблицам нейтронных
+  сечений.~: {Отчет}~: 70/190-T~/ ВНИИА~; {исполн.}:
+  С.~Е.~Куратов, М.~В.~Косов, Д.~И.~Савин~: 2015.
+
+\bibitem{IgashSol17}
+\selectlanguageifdefined{english}
+\BibEmph{Solovyev~A.~S., Igashov~S.~Yu.} Microscopic approach based on a
+  multiscale algebraic version of the resonating group model for radiative
+  capture reactions~// \BibEmph{Phys. Rev. C}. \BibDash
+\newblock 2017. \BibDash
+\newblock Vol.~96. \BibDash
+\newblock P.~064605.
+
+\bibitem{SRIM}
+\selectlanguageifdefined{english}
+\BibEmph{Ziegler~J.~F., Ziegler~M.~D., Biersack~J.~P.} SRIM - The stopping and
+  range ions in matter (2010)~// \BibEmph{Nucl. Instr. and Meth. in Phys.
+  Research B}. \BibDash
+\newblock 2010. \BibDash
+\newblock Vol. 268. \BibDash
+\newblock P.~1818.
+
+\bibitem{G4IonIon}
+\selectlanguageifdefined{english}
+\href{http://dx.doi.org/10.1142/9789814329033_0002}{Nuclear and Non-Ionizing
+  Energy-Loss for Coulomb Scattered Particles from Low Energy up to
+  Relativistic Regime in Space Radiation Environment}~/ M.J.~Boschini,
+  C.~Consolandi, M.~Gervasi et~al.~// Cosmic Rays for Particle and
+  Astroparticle Physics. \BibDash
+\newblock P.~9--23. \BibDash
+\newblock
+  \href{https://www.worldscientific.com/doi/abs/10.1142/9789814329033_0002}{https://www.worldscientific.com/doi/pdf/10.1142/9789814329033_0002}.
+
+\bibitem{LinhardScreeningLength}
+\selectlanguageifdefined{english}
+\BibEmph{Lindhard~J., Scharff~M.} Energy Dissipation by Ions in the kev
+  Region~// \href{http://dx.doi.org/10.1103/PhysRev.124.128}{\BibEmph{Phys.
+  Rev.}} \BibDash
+\newblock 1961. \BibDash Oct. \BibDash
+\newblock Vol. 124. \BibDash
+\newblock P.~128--130. \BibDash
+\newblock Access mode:
+  \BibUrl{https://link.aps.org/doi/10.1103/PhysRev.124.128}.
+
+\bibitem{ThomasFermiModel}
+\selectlanguageifdefined{english}
+\BibEmph{Torrens~I.~M.} Interatomic Potentials. \BibDash
+\newblock Academic Press. New York, 1972.
+
+\bibitem{PDG}
+\selectlanguageifdefined{english}
+Review of Particle Physics~/ M.~Tanabashi, K.~Hagiwara, K.~Hikasa et~al.~//
+  \href{http://dx.doi.org/10.1103/PhysRevD.98.030001}{\BibEmph{Phys. Rev. D}}.
+  \BibDash
+\newblock 2018. \BibDash Aug. \BibDash
+\newblock Vol.~98. \BibDash
+\newblock P.~030001. \BibDash
+\newblock Access mode:
+  \BibUrl{https://link.aps.org/doi/10.1103/PhysRevD.98.030001}.
+
+\bibitem{Sys_pA}
+\selectlanguageifdefined{english}
+A Systematic Study of Elastic Proton-nucleus Scattering~/ M.~V.~Ivanov,
+  J.~R.~Vignote, R.~Alvarez-Rodriguez, J.~M.~Udias.
+
+\bibitem{NuclGlor}
+\selectlanguageifdefined{english}
+Nuclear glory phenomenon ('Buddha's light' of cunulative particles~: Rep.~/
+  MPTI~; Executor: V.~B.~Kopeliovich, G.~K.~Matushko, I.~K.~Potashnikova~:
+  2014. \BibDash
+\newblock arXiv:1412.7707[physics.nucl-th].
+
+\bibitem{Gamow1928}
+\selectlanguageifdefined{english}
+\BibEmph{Gamow~G}. Quantum Theory of the Atomic Nucleus~// \BibEmph{Z. Phys.
+  A}. \BibDash
+\newblock 1928. \BibDash 01. \BibDash
+\newblock Vol.~51.
+
+\bibitem{ThermonuclearReactionRates_GamowEnergy}
+\selectlanguageifdefined{english}
+\BibEmph{Fowler~William~A., Caughlan~Georgeanne~R., Zimmerman~Barbara~A.}
+  Thermonuclear Reaction Rates~//
+  \href{http://dx.doi.org/10.1146/annurev.aa.05.090167.002521}{\BibEmph{Annual
+  Review of Astronomy and Astrophysics}}. \BibDash
+\newblock 1967. \BibDash
+\newblock Vol.~5, no.~1. \BibDash
+\newblock P.~525--570. \BibDash
+\newblock
+  \href{https://doi.org/10.1146/annurev.aa.05.090167.002521}{https://doi.org/10.1146/annurev.aa.05.090167.002521}.
+
+\bibitem{LandauLifshitzMechanics}
+\selectlanguageifdefined{russian}
+\BibEmph{Ландау~Л.~Д., Лифшиц~Е.~М.} Механика. \BibDash
+\newblock М.: Наука, 1988.
+
+\bibitem{LandauLifshitzNonrelativisticQM}
+\selectlanguageifdefined{russian}
+\BibEmph{Ландау~Л.~Д., Лифшиц~Е.~М.} Квантовая
+  механика. Нерелятивистская теория. \BibDash
+\newblock М.: Наука, 1989.
+
+\bibitem{Norman09}
+\selectlanguageifdefined{english}
+Differential Cross Sections for Proton-Proton Elastic Scattering~: Rep.~:
+  NASA/TP-2009-215565~/ NASA Center for Aero Space Information~; Executor:
+  R.B.~Norman, F.~Dick, J.W.~Norbury, S.R.~Blattnig~: 2009.
+
+\bibitem{OBEM}
+\selectlanguageifdefined{english}
+\BibEmph{Huber~S., Aichelin~J.} Production of $\Delta$- and $N^*$-resonances in
+  the one-boson exchange model~// \BibEmph{Nucl. Phys. A}. \BibDash
+\newblock 1994. \BibDash
+\newblock Vol. 573. \BibDash
+\newblock P.~587.
+
+\bibitem{PP1_Wassmer}
+\selectlanguageifdefined{english}
+\BibEmph{Wassmer~H., Muhry~H.}~// \BibEmph{Helvetica Physica Acta}. \BibDash
+\newblock 1973. \BibDash
+\newblock Vol.~46. \BibDash
+\newblock P.~626.
+
+\bibitem{PP2_Worthigton}
+\selectlanguageifdefined{english}
+\BibEmph{Worthington~H.~R., Mcgruer~J.~N., Findley~D.~E.}~// \BibEmph{Phys.
+  Rev.} \BibDash
+\newblock 1953. \BibDash
+\newblock Vol.~90. \BibDash
+\newblock P.~899.
+
+\bibitem{PP3_Blair}
+\selectlanguageifdefined{english}
+J.~M.~Blair, G.~Freier, E.~E.~Lampi et~al.~// \BibEmph{Phys. Rev.} \BibDash
+\newblock 1948. \BibDash
+\newblock Vol.~74. \BibDash
+\newblock P.~553.
+
+\bibitem{PP4_Imai}
+\selectlanguageifdefined{english}
+K.~Imai, K.~Nisimura, N.~Tamura, H.~Sato~// \BibEmph{Nucl. Phys. A}. \BibDash
+\newblock 1975. \BibDash
+\newblock Vol. 246. \BibDash
+\newblock P.~76.
+
+\bibitem{PP5_Johnston}
+\selectlanguageifdefined{english}
+\BibEmph{Johnston~L.~H., Joung~D.~E.}~// \BibEmph{Phys. Rev.} \BibDash
+\newblock 1959. \BibDash
+\newblock Vol. 116. \BibDash
+\newblock P.~989.
+
+\bibitem{PP6_Kikuchi}
+\selectlanguageifdefined{english}
+S.~Kikuchi, J.~Sanada, S.~Suwa et~al.~// \BibEmph{Journal of the Physical
+  Society of Japan}. \BibDash
+\newblock 1960. \BibDash
+\newblock Vol.~15. \BibDash
+\newblock P.~9.
+
+\bibitem{PP7_Berdoz}
+\selectlanguageifdefined{english}
+\BibEmph{Berdoz~A., Foroughi~F., Nussbaum~C.}~// \BibEmph{Jour. of Physics,
+  Part G}. \BibDash
+\newblock 1986. \BibDash
+\newblock Vol.~12. \BibDash
+\newblock P.~L133.
+
+\bibitem{PP8_Taylor}
+\selectlanguageifdefined{english}
+\BibEmph{Taylor~A.~E., Wood~E., Bird~L.}~// \BibEmph{Nucl. Phys.} \BibDash
+\newblock 1960. \BibDash
+\newblock Vol.~16. \BibDash
+\newblock P.~320.
+
+\bibitem{PP9_Mahjour}
+\selectlanguageifdefined{english}
+M.~Mahjour-Shafiei, J.~C.~S.~Bacelar, M.~D.~Cozma et~al.~// \BibEmph{Phys. Rev.
+  C}. \BibDash
+\newblock 2004. \BibDash
+\newblock Vol.~70. \BibDash
+\newblock P.~024004.
+
+\bibitem{MigdalPP}
+\selectlanguageifdefined{english}
+\BibEmph{Migdal~A.B.} The Theory of Nuclear Reactions with production of Slow
+  Particles~// \BibEmph{Sov. Phys. JETP}. \BibDash
+\newblock 1955. \BibDash
+\newblock Vol.~1. \BibDash
+\newblock P.~2.
+
+\bibitem{WatsonPP}
+\selectlanguageifdefined{english}
+\BibEmph{Watson~K.M.} The Effect of Final State Interactions on Reaction Cross
+  Section~// \BibEmph{Phys. Rev.} \BibDash
+\newblock 1952. \BibDash
+\newblock Vol.~88. \BibDash
+\newblock P.~1163.
+
+\bibitem{DD1_Blair}
+\selectlanguageifdefined{english}
+J.~M.~Blair, G.~Freier, E.~Lampi et~al.~// \BibEmph{Phys. Rev.} \BibDash
+\newblock 1948. \BibDash
+\newblock Vol.~74. \BibDash
+\newblock P.~1594.
+
+\bibitem{DD2_Wilson}
+\selectlanguageifdefined{english}
+A.~S.~Wilson, M.~C.~Taylor, J.~C.~Legg, G.~C.~Phillips~// \BibEmph{Nucl. Phys.
+  A}. \BibDash
+\newblock 1969. \BibDash
+\newblock Vol. 126. \BibDash
+\newblock P.~193.
+
+\bibitem{DD3_Brolley}
+\selectlanguageifdefined{english}
+J.~E.~Brolley, T.~M.~Putnam, L.~Rosen, L.~Stewart~// \BibEmph{Phys. Rev.}
+  \BibDash
+\newblock 1960. \BibDash
+\newblock Vol. 117. \BibDash
+\newblock P.~1307.
+
+\bibitem{DD4_Burrows}
+\selectlanguageifdefined{english}
+\BibEmph{Burrows~H.~B., Gibson~W.~M., Rotblat~J.}~// \BibEmph{Proc. Royal
+  Society London, A}. \BibDash
+\newblock 1951. \BibDash
+\newblock Vol. 209. \BibDash
+\newblock P.~489.
+
+\bibitem{DD5_Nemec}
+\selectlanguageifdefined{english}
+O.~F.~Nemec, V.~V.~Ostashko, V.~N.~Urin, A.~M.~Jasnogorodskij~// \BibEmph{Ukr.
+  Fiz. Zh.} \BibDash
+\newblock 1985. \BibDash
+\newblock Vol.~30. \BibDash
+\newblock P.~328.
+
+\bibitem{DD6_Rosen1}
+\selectlanguageifdefined{english}
+\BibEmph{Rosen~L., Tallmadge~F.~K., Williams~J.~H.}~// \BibEmph{Phys. Rev.}
+  \BibDash
+\newblock 1949. \BibDash
+\newblock Vol.~76. \BibDash
+\newblock P.~1283.
+
+\bibitem{DD7_Rosen2}
+\selectlanguageifdefined{english}
+\BibEmph{Rosen~L., Allred~J.~C.}~// \BibEmph{Phys. Rev.} \BibDash
+\newblock 1952. \BibDash
+\newblock Vol.~88. \BibDash
+\newblock P.~431.
+
+\bibitem{DD8_Allred}
+\selectlanguageifdefined{english}
+J.~C.~Allred, K.~W.~Erickson, J.~L.~Fowler, E.~J.~Stovall~// \BibEmph{Phys.
+  Rev.} \BibDash
+\newblock 1949. \BibDash
+\newblock Vol.~76. \BibDash
+\newblock P.~1430.
+
+\bibitem{DD9_Jarmie}
+\selectlanguageifdefined{english}
+\BibEmph{Jarmie~N., Jett~J.~H.} Accurate deuteron-deuteron elastic scattering
+  cross sections~// Conf. on Few-Particle Problems, Los Angeles. \BibDash
+\newblock 1972. \BibDash
+\newblock P.~659.
+
+\bibitem{DD10_Okihana}
+\selectlanguageifdefined{english}
+A.~Okihana, N.~Fujiwara, H.~Nakamura-Yokota et~al.~// \BibEmph{Jour. of the
+  Physical Society of Japan}. \BibDash
+\newblock 1979. \BibDash
+\newblock Vol.~46. \BibDash
+\newblock P.~707.
+
+\bibitem{DD11_Itoh}
+\selectlanguageifdefined{english}
+\BibEmph{Itoh~H.}~// \BibEmph{Progress of Theoretical Physics}. \BibDash
+\newblock 1968. \BibDash
+\newblock Vol.~39. \BibDash
+\newblock P.~1361.
+
+\bibitem{DD_Oers}
+\selectlanguageifdefined{english}
+\BibEmph{van Oers~W.T.H., Arnold~H., Jr.~K.W.~Brockman}~// \BibEmph{Nucl.
+  Phys.} \BibDash
+\newblock 1963. \BibDash
+\newblock Vol.~46. \BibDash
+\newblock P.~611--616.
+
+\bibitem{DD12_Beliuskina}
+\selectlanguageifdefined{english}
+O.~O.~Beliuskina, V.~I.~Grantsev, K.~K.~Kisurin et~al.~// \BibEmph{Vopr. Atomn.
+  Nauki i Tekhn., Ser. Yad. Fiz. Issledo.} \BibDash
+\newblock 2011. \BibDash
+\newblock Vol.~5. \BibDash
+\newblock P.~10.
+
+\bibitem{DD13_Alderliesten}
+\selectlanguageifdefined{english}
+C.~Alderliesten, A.~Djaloeis, J.~Bojowald et~al.~// \BibEmph{Phys. Rev. C}.
+  \BibDash
+\newblock 1978. \BibDash
+\newblock Vol.~18. \BibDash
+\newblock P.~2001.
+
+\bibitem{DD14_Brueckmann}
+\selectlanguageifdefined{english}
+H.~Brueckmann, E.~L.~Haase, W.~Kluge, L.~Schaenzler~// \BibEmph{Zeitschrift
+  fuer Physik}. \BibDash
+\newblock 1970. \BibDash
+\newblock Vol. 230. \BibDash
+\newblock P.~383.
+
+\bibitem{DD15_Micherdzinska}
+\selectlanguageifdefined{english}
+A.~M.~Micherdzinska, P.~V.~Pancella, E.~J.~Stephenson et~al.~// \BibEmph{Phys.
+  Rev. C}. \BibDash
+\newblock 2007. \BibDash
+\newblock Vol.~75. \BibDash
+\newblock P.~054001.
+
+\bibitem{MSLEn}
+\selectlanguageifdefined{english}
+\BibEmph{Mekhtiche~A., Khalal-Kouache~K.} Multiple scattering of low energy
+  ions in matter: Influence of energy loss and interaction potential~//
+  \BibEmph{Nucl. Instr. Meth. B}. \BibDash
+\newblock 2015. \BibDash
+\newblock Vol. 354. \BibDash
+\newblock P.~151--154.
+
+\bibitem{IonEl}
+\selectlanguageifdefined{english}
+\BibEmph{Mendenhall~Marcus~H., Weller~Robert~A.} An Algorithm for Computing
+  Screened Coulomb Scattering in GEANT4. \BibDash
+\newblock 2004.
+
+\end{thebibliography}
