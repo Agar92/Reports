@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.8)  3 JAN 2020 08:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.8)  3 JAN 2020 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1323,8 +1323,12 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
    defining Unicode char U+00A0 (decimal 160)
 
-No file reptptgeom.aux.
-\openout1 = `reptptgeom.aux'.
+LaTeX Warning: Label `ProbabilityOfNeutronOutputPer1Deuteron' multiply defined.
+
+
+\c@citnum@totc=\count301
+)
+\openout1 = `repionmat.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
 LaTeX Font Info:    ... okay on input line 38.
@@ -1483,8 +1487,8 @@ Underfull \hbox (badness 1132) in paragraph at lines 191--194
 
 [4
 
-] [5] [6] [7]
-Underfull \hbox (badness 3590) in paragraph at lines 235--235
+] [6] [7] [8]
+Underfull \hbox (badness 3590) in paragraph at lines 236--236
 |[]\T2A/cmr/bx/n/17.28 Валидация уг-ло-во-го рас-пре-де-ле-ния мно-го-
  []
 
@@ -1498,7 +1502,7 @@ LaTeX Warning: Reference `fig:Par1theta' on page 9 undefined on input line 280.
 <images/pars135.pdf, id=57, 682.55pt x 511.9125pt>
 File: images/pars135.pdf Graphic file (type pdf)
 <use images/pars135.pdf>
-Package pdftex.def Info: images/pars135.pdf  used on input line 284.
+Package pdftex.def Info: images/pars135.pdf  used on input line 285.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
 
 LaTeX Warning: Reference `fig:DispTheta' on page 9 undefined on input line 290.
@@ -1508,185 +1512,73 @@ LaTeX Warning: Reference `fig:DispTheta' on page 9 undefined on input line 290.
 <images/pars246.pdf, id=67, 682.55pt x 511.9125pt>
 File: images/pars246.pdf Graphic file (type pdf)
 <use images/pars246.pdf>
-Package pdftex.def Info: images/pars246.pdf  used on input line 317.
+Package pdftex.def Info: images/pars246.pdf  used on input line 318.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
- [10 <./images/pars246.pdf>]
+ [11 <./images/pars246.pdf>] [12]
+Overfull \hbox (7.58122pt too wide) detected at line 366
+[][]
+ []
 
-LaTeX Warning: Reference `MSApproximationFunction' on page 11 undefined on inpu
-t line 334.
-
-[11]
-
-LaTeX Warning: Reference `Theta0' on page 12 undefined on input line 341.
-
-
-LaTeX Warning: Citation `PDG' on page 12 undefined on input line 354.
-
-
-LaTeX Warning: Reference `CheckTheta0Coefficient' on page 12 undefined on input
- line 356.
-
-
-LaTeX Warning: Reference `CheckTheta0Coefficient' on page 12 undefined on input
- line 363.
-
-[12]
-
-LaTeX Warning: Reference `Theta0Dispersion' on page 13 undefined on input line 
-365.
-
-
-LaTeX Warning: Reference `MSApproximationD3' on page 13 undefined on input line
- 365.
-
-
-LaTeX Warning: Reference `MSApproximationD3' on page 13 undefined on input line
- 366.
-
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 13 undefined on inpu
-t line 371.
-
-[13]
-
-LaTeX Warning: Reference `fig:MFthetaScalingDeuteron' on page 14 undefined on i
-nput line 381.
-
-
-LaTeX Warning: Reference `fig:MFthetaScalingTitan' on page 14 undefined on inpu
-t line 381.
-
-<images/funtheta_0_1mkm_deuteron.pdf, id=87, 682.55pt x 511.9125pt>
+[13] [14]
+<images/funtheta_0_1mkm_deuteron.pdf, id=91, 682.55pt x 511.9125pt>
 File: images/funtheta_0_1mkm_deuteron.pdf Graphic file (type pdf)
 <use images/funtheta_0_1mkm_deuteron.pdf>
 Package pdftex.def Info: images/funtheta_0_1mkm_deuteron.pdf  used on input lin
-e 386.
+e 394.
 (pdftex.def)             Requested size: 154.78653pt x 116.08925pt.
 <images/funtheta_1mkm_deuteron.pdf, id=88, 682.55pt x 511.9125pt>
 File: images/funtheta_1mkm_deuteron.pdf Graphic file (type pdf)
 <use images/funtheta_1mkm_deuteron.pdf>
 Package pdftex.def Info: images/funtheta_1mkm_deuteron.pdf  used on input line 
-387.
+395.
 (pdftex.def)             Requested size: 154.78653pt x 116.08925pt.
 <images/funtheta_2_5mkm_deuteron.pdf, id=89, 682.55pt x 511.9125pt>
 File: images/funtheta_2_5mkm_deuteron.pdf Graphic file (type pdf)
 <use images/funtheta_2_5mkm_deuteron.pdf>
 Package pdftex.def Info: images/funtheta_2_5mkm_deuteron.pdf  used on input lin
-e 388.
+e 396.
 (pdftex.def)             Requested size: 154.78653pt x 116.08925pt.
 <images/funtheta_0_1mkm_ti.pdf, id=90, 682.55pt x 511.9125pt>
 File: images/funtheta_0_1mkm_ti.pdf Graphic file (type pdf)
 <use images/funtheta_0_1mkm_ti.pdf>
-Package pdftex.def Info: images/funtheta_0_1mkm_ti.pdf  used on input line 397.
+Package pdftex.def Info: images/funtheta_0_1mkm_ti.pdf  used on input line 405.
 
 (pdftex.def)             Requested size: 154.78653pt x 116.08925pt.
 <images/funtheta_1mkm_ti.pdf, id=91, 682.55pt x 511.9125pt>
 File: images/funtheta_1mkm_ti.pdf Graphic file (type pdf)
 <use images/funtheta_1mkm_ti.pdf>
-Package pdftex.def Info: images/funtheta_1mkm_ti.pdf  used on input line 398.
+Package pdftex.def Info: images/funtheta_1mkm_ti.pdf  used on input line 406.
 (pdftex.def)             Requested size: 154.78653pt x 116.08925pt.
 <images/funtheta_2_5mkm_ti.pdf, id=92, 682.55pt x 511.9125pt>
 File: images/funtheta_2_5mkm_ti.pdf Graphic file (type pdf)
 <use images/funtheta_2_5mkm_ti.pdf>
-Package pdftex.def Info: images/funtheta_2_5mkm_ti.pdf  used on input line 399.
+Package pdftex.def Info: images/funtheta_2_5mkm_ti.pdf  used on input line 407.
 
 (pdftex.def)             Requested size: 154.78653pt x 116.08925pt.
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 14 undefined on inpu
-t line 407.
-
-[14 <./images/funtheta_0_1mkm_deuteron.pdf> <./images/funtheta_1mkm_deuteron.pd
-f> <./images/funtheta_2_5mkm_deuteron.pdf> <./images/funtheta_0_1mkm_ti.pdf> <.
-/images/funtheta_1mkm_ti.pdf> <./images/funtheta_2_5mkm_ti.pdf>]
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 15 undefined on inpu
-t line 412.
-
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 15 undefined on inpu
-t line 414.
-
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 15 undefined on inpu
-t line 431.
-
-[15]
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 16 undefined on inpu
-t line 434.
-
-
-LaTeX Warning: Reference `fig:MSRatioHistogramWithoutCorrection' on page 16 und
-efined on input line 435.
-
-<images/ratioms_without_correction.pdf, id=135, 682.55pt x 511.9125pt>
+ [15 <./images/funtheta_0_1mkm_deuteron.pdf> <./images/funtheta_1mkm_deuteron.p
+df> <./images/funtheta_2_5mkm_deuteron.pdf> <./images/funtheta_0_1mkm_ti.pdf> <
+./images/funtheta_1mkm_ti.pdf> <./images/funtheta_2_5mkm_ti.pdf>]
+[16]
+<images/ratioms_without_correction.pdf, id=139, 682.55pt x 511.9125pt>
 File: images/ratioms_without_correction.pdf Graphic file (type pdf)
 <use images/ratioms_without_correction.pdf>
 Package pdftex.def Info: images/ratioms_without_correction.pdf  used on input l
-ine 439.
+ine 447.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 16 undefined on inpu
-t line 441.
-
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 16 undefined on inpu
-t line 441.
-
-
-LaTeX Warning: Reference `fig:MSRatioHistogramWithoutCorrection' on page 16 und
-efined on input line 445.
-
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 16 undefined on inpu
-t line 447.
-
-[16] [17 <./images/ratioms_without_correction.pdf>]
-
-LaTeX Warning: Reference `MSIntegralExp' on page 18 undefined on input line 475
-.
-
-
-LaTeX Warning: Reference `fig:MSRatioHistogramWithoutCorrection' on page 18 und
-efined on input line 483.
-
-
-LaTeX Warning: Reference `fig:MSRatioHistogramWithoutCorrection' on page 18 und
-efined on input line 485.
-
-
-LaTeX Warning: Reference `fig:MSRatioHistogramWithCorrection' on page 18 undefi
-ned on input line 486.
-
-<images/ratioms_with_correction.pdf, id=149, 682.55pt x 511.9125pt>
+ [17] [18 <./images/ratioms_without_correction.pdf>]
+<images/ratioms_with_correction.pdf, id=152, 682.55pt x 511.9125pt>
 File: images/ratioms_with_correction.pdf Graphic file (type pdf)
 <use images/ratioms_with_correction.pdf>
 Package pdftex.def Info: images/ratioms_with_correction.pdf  used on input line
- 491.
+ 499.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 18 undefined on inpu
-t line 493.
-
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 18 undefined on inpu
-t line 493.
-
-
-LaTeX Warning: Reference `MSIntegralFin' on page 18 undefined on input line 497
-.
-
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 18 undefined on inpu
-t line 500.
-
-[18] [19 <./images/ratioms_with_correction.pdf>]
-Overfull \hbox (47.18936pt too wide) detected at line 517
+ [19] [20 <./images/ratioms_with_correction.pdf>]
+Overfull \hbox (47.18936pt too wide) detected at line 525
 [][]
  []
 
 
-Overfull \hbox (69.1452pt too wide) detected at line 526
+Overfull \hbox (69.1452pt too wide) detected at line 534
 [][]
  []
 
@@ -1707,7 +1599,7 @@ undefined on input line 529.
 File: images/DDInelasticIntegralCrossSections.pdf Graphic file (type pdf)
 <use images/DDInelasticIntegralCrossSections.pdf>
 Package pdftex.def Info: images/DDInelasticIntegralCrossSections.pdf  used on i
-nput line 534.
+nput line 542.
 (pdftex.def)             Requested size: 478.86252pt x 214.83153pt.
 [20
 
@@ -1723,7 +1615,7 @@ File: images/validation_thermonuclear_2mev_2billion.pdf Graphic file (type pdf)
 
 <use images/validation_thermonuclear_2mev_2billion.pdf>
 Package pdftex.def Info: images/validation_thermonuclear_2mev_2billion.pdf  use
-d on input line 557.
+d on input line 565.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
 
 
@@ -1739,7 +1631,7 @@ undefined on input line 568.
 File: images/compare_tpt2_with_tpt3_2billion.pdf Graphic file (type pdf)
 <use images/compare_tpt2_with_tpt3_2billion.pdf>
 Package pdftex.def Info: images/compare_tpt2_with_tpt3_2billion.pdf  used on in
-put line 572.
+put line 580.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
  [23 <./images/validation_thermonuclear_2mev_2billion.pdf>] [24 <./images/compa
 re_tpt2_with_tpt3_2billion.pdf>]
@@ -1758,7 +1650,7 @@ n.pdf Graphic file (type pdf)
 <use images/difference_of_elastic_dd_from_rutherford_differential_cross_section
 .pdf>
 Package pdftex.def Info: images/difference_of_elastic_dd_from_rutherford_differ
-ential_cross_section.pdf  used on input line 592.
+ential_cross_section.pdf  used on input line 600.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
 
 LaTeX Warning: Reference `fig:DifferenceOfElasticDDFromRutherfordDifferentialCr
@@ -1782,7 +1674,7 @@ File: images/check_dd_approximation_filling_bins_of_histogram.pdf Graphic file
 (type pdf)
 <use images/check_dd_approximation_filling_bins_of_histogram.pdf>
 Package pdftex.def Info: images/check_dd_approximation_filling_bins_of_histogra
-m.pdf  used on input line 616.
+m.pdf  used on input line 626.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
 [27] [28 <./images/check_dd_approximation_filling_bins_of_histogram.pdf>]
 
@@ -1815,7 +1707,7 @@ ut line 662.
 <images/dedx.pdf, id=233, 682.55pt x 511.9125pt>
 File: images/dedx.pdf Graphic file (type pdf)
 <use images/dedx.pdf>
-Package pdftex.def Info: images/dedx.pdf  used on input line 666.
+Package pdftex.def Info: images/dedx.pdf  used on input line 676.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
 
 
@@ -1857,7 +1749,7 @@ put line 733.
 File: images/compare_parallelly_dEdx.pdf Graphic file (type pdf)
 <use images/compare_parallelly_dEdx.pdf>
 Package pdftex.def Info: images/compare_parallelly_dEdx.pdf  used on input line
- 738.
+ 749.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
 
 LaTeX Warning: Reference `dEdxHInTiD2Approximation' on page 34 undefined on inp
@@ -1876,45 +1768,12 @@ input line 745.
 File: images/compare_sequentially_dEdx.pdf Graphic file (type pdf)
 <use images/compare_sequentially_dEdx.pdf>
 Package pdftex.def Info: images/compare_sequentially_dEdx.pdf  used on input li
-ne 749.
+ne 760.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
 
 
-LaTeX Warning: Reference `dEdxHInTiD2Approximation' on page 35 undefined on inp
-ut line 751.
-
-
-LaTeX Warning: Reference `dEdxHInTiD2Approximation' on page 35 undefined on inp
-ut line 751.
-
-[35 <./images/compare_parallelly_dEdx.pdf>] [36 <./images/compare_sequentially_
-dEdx.pdf>]
-
-LaTeX Warning: Reference `dEdxLinhardExtrapolationInSmallTls' on page 37 undefi
-ned on input line 783.
-
-[37] [38
-
-] [39]
-
-LaTeX Warning: Reference `InelasticDDNHe3ChannelIntegralCrossSection' on page 4
-0 undefined on input line 867.
-
-
-LaTeX Warning: Reference `InelasticDDPTChannelIntegralCrossSection' on page 40 
-undefined on input line 867.
-
-
-LaTeX Warning: Reference `fig:ValidationThermonuclear2mev2billionParticles' on 
-page 40 undefined on input line 872.
-
-[40]
-
-LaTeX Warning: Reference `MandelStahmSVariableDefinition' on page 41 undefined 
-on input line 893.
-
-
-Underfull \hbox (badness 4391) in paragraph at lines 900--900
+] [40] [41]
+Underfull \hbox (badness 4391) in paragraph at lines 911--911
 |[]\T2A/cmr/bx/n/14.4 Реализация дис-крет-но-го про-цес-са упру-го-го ион-
  []
 
@@ -1969,60 +1828,19 @@ File: images/integral_rutherford_d_ti_cross_sections.pdf Graphic file (type pdf
 )
 <use images/integral_rutherford_d_ti_cross_sections.pdf>
 Package pdftex.def Info: images/integral_rutherford_d_ti_cross_sections.pdf  us
-ed on input line 1007.
+ed on input line 1018.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `fig:DifferenceOfElasticDDFromRutherfordDifferentialCr
-ossSection' on page 45 undefined on input line 1014.
-
-[45] [46 <./images/integral_rutherford_d_ti_cross_sections.pdf>]
-
-LaTeX Warning: Reference `IntegralRutherfordCSDifferentParticles' on page 47 un
-defined on input line 1031.
-
-
-LaTeX Warning: Reference `DifferentialRutherfordCSEqualParticles' on page 47 un
-defined on input line 1051.
-
-[47]
-
-LaTeX Warning: Reference `IntegralRutherfordCSEqualDD' on page 48 undefined on 
-input line 1054.
-
-
-LaTeX Warning: Reference `IntegralRutherfordCSEqualParticles' on page 48 undefi
-ned on input line 1057.
-
-
-LaTeX Warning: Reference `DifferentialRutherfordCSEqualParticles' on page 48 un
-defined on input line 1062.
-
-[48]
-
-LaTeX Warning: Reference `ValElasticDD' on page 49 undefined on input line 1108
-.
-
-
-LaTeX Warning: Reference `fig:DifferenceOfElasticDDFromRutherfordDifferentialCr
-ossSection' on page 49 undefined on input line 1109.
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 1107--1110
+ [46] [47 <./images/integral_rutherford_d_ti_cross_sections.pdf>] [48] [49]
+Underfull \hbox (badness 1484) in paragraph at lines 1119--1122
 []\T2A/cmr/m/n/14.4 При мо-де-ли-ро-ва-нии упру-го-го D-D ра-се-я-ния си-ту-а-ц
 ия бы-ла
  []
 
-
-Underfull \hbox (badness 1430) in paragraph at lines 1107--1110
-\T2A/cmr/m/n/14.4 несколь-ко слож-нее. Как упо-ми-на-лось в раз-де-ле [], в от-
-чј-те
- []
-
-<images/ratio_of_elastic_dd_at_90_grades.pdf, id=320, 682.55pt x 511.9125pt>
+<images/ratio_of_elastic_dd_at_90_grades.pdf, id=324, 682.55pt x 511.9125pt>
 File: images/ratio_of_elastic_dd_at_90_grades.pdf Graphic file (type pdf)
 <use images/ratio_of_elastic_dd_at_90_grades.pdf>
 Package pdftex.def Info: images/ratio_of_elastic_dd_at_90_grades.pdf  used on i
-nput line 1114.
+nput line 1126.
 (pdftex.def)             Requested size: 241.84842pt x 181.38261pt.
 <images/ratio_of_elastic_dd_at_90_grades_find_1_percent_diff.pdf, id=321, 682.5
 5pt x 511.9125pt>
@@ -2030,64 +1848,20 @@ File: images/ratio_of_elastic_dd_at_90_grades_find_1_percent_diff.pdf Graphic f
 ile (type pdf)
 <use images/ratio_of_elastic_dd_at_90_grades_find_1_percent_diff.pdf>
 Package pdftex.def Info: images/ratio_of_elastic_dd_at_90_grades_find_1_percent
-_diff.pdf  used on input line 1115.
+_diff.pdf  used on input line 1127.
 (pdftex.def)             Requested size: 241.84842pt x 181.38261pt.
 
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 1114--1118
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 1126--1130
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1114--1118
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1130
 
  []
 
-
-LaTeX Warning: Reference `fig:DifferenceOfElasticDDFromRutherfordDifferentialCr
-ossSection' on page 49 undefined on input line 1118.
-
-
-LaTeX Warning: Reference `fig:DifferenceOfElasticDDFromRutherfordDifferentialCr
-ossSection' on page 49 undefined on input line 1118.
-
-
-LaTeX Warning: Reference `fig:RatioOfElasticDDAt90Grades' on page 49 undefined 
-on input line 1123.
-
-[49 <./images/ratio_of_elastic_dd_at_90_grades.pdf> <./images/ratio_of_elastic_
-dd_at_90_grades_find_1_percent_diff.pdf>]
-
-LaTeX Warning: Reference `fig:DifferenceOfElasticDDFromRutherfordDifferentialCr
-ossSection' on page 50 undefined on input line 1126.
-
-
-LaTeX Warning: Reference `fig:DifferenceOfElasticDDFromRutherfordDifferentialCr
-ossSection' on page 50 undefined on input line 1127.
-
-
-LaTeX Warning: Reference `fig:DifferenceOfElasticDDFromRutherfordDifferentialCr
-ossSection' on page 50 undefined on input line 1128.
-
-[50] [51]
-
-LaTeX Warning: Reference `ValMS' on page 52 undefined on input line 1167.
-
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 52 undefined on inpu
-t line 1168.
-
-
-LaTeX Warning: Reference `subValMS2' on page 52 undefined on input line 1168.
-
-[52]
-
-LaTeX Warning: Reference `ValdEdx' on page 53 undefined on input line 1170.
-
-[53]
-
-LaTeX Warning: Reference `ValdEdx' on page 54 undefined on input line 1188.
-
-[54
+[50] [51 <./images/ratio_of_elastic_dd_at_90_grades.pdf> <./images/ratio_of_ela
+stic_dd_at_90_grades_find_1_percent_diff.pdf>] [52] [53] [54] [55
 
 ]
 
@@ -2097,7 +1871,7 @@ input line 1191.
 <images/ranges.pdf, id=355, 682.55pt x 511.9125pt>
 File: images/ranges.pdf Graphic file (type pdf)
 <use images/ranges.pdf>
-Package pdftex.def Info: images/ranges.pdf  used on input line 1195.
+Package pdftex.def Info: images/ranges.pdf  used on input line 1207.
 (pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
 
 LaTeX Warning: Reference `fig:RangesOfDeuteronsInInelasticAndElasticProcesses' 
@@ -2107,1706 +1881,73 @@ on page 55 undefined on input line 1205.
 <images/fluence_inelastic.pdf, id=367, 682.55pt x 511.9125pt>
 File: images/fluence_inelastic.pdf Graphic file (type pdf)
 <use images/fluence_inelastic.pdf>
-Package pdftex.def Info: images/fluence_inelastic.pdf  used on input line 1210.
+Package pdftex.def Info: images/fluence_inelastic.pdf  used on input line 1222.
 
 (pdftex.def)             Requested size: 241.84842pt x 181.38261pt.
 <images/fluence_elastic.pdf, id=368, 682.55pt x 511.9125pt>
 File: images/fluence_elastic.pdf Graphic file (type pdf)
 <use images/fluence_elastic.pdf>
-Package pdftex.def Info: images/fluence_elastic.pdf  used on input line 1211.
+Package pdftex.def Info: images/fluence_elastic.pdf  used on input line 1223.
 (pdftex.def)             Requested size: 241.84842pt x 181.38261pt.
 
-Overfull \hbox (2.61049pt too wide) in paragraph at lines 1210--1213
+Overfull \hbox (2.61049pt too wide) in paragraph at lines 1222--1225
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1210--1213
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1225
 
  []
 
-[56 <./images/fluence_inelastic.pdf> <./images/fluence_elastic.pdf>]
+[57 <./images/fluence_inelastic.pdf> <./images/fluence_elastic.pdf>] [58]
+[59
 
-LaTeX Warning: Reference `Dimension1p' on page 57 undefined on input line 1265.
-
-
-
-LaTeX Warning: Citation `G4IonIon' on page 57 undefined on input line 1273.
-
-
-LaTeX Warning: Citation `LinhardScreeningLength' on page 57 undefined on input 
-line 1281.
-
-
-LaTeX Warning: Citation `ThomasFermiModel' on page 57 undefined on input line 1
-288.
-
-[57]
-
-LaTeX Warning: Reference `Tmax' on page 58 undefined on input line 1290.
-
-
-LaTeX Warning: Reference `Xp' on page 58 undefined on input line 1291.
-
-
-LaTeX Warning: Reference `MS1' on page 58 undefined on input line 1291.
-
-
-LaTeX Warning: Reference `MSSigmaFull' on page 58 undefined on input line 1299.
-
-
-
-LaTeX Warning: Reference `MSSigmaFull' on page 58 undefined on input line 1299.
-
-
-
-LaTeX Warning: Reference `MSSigmaFull' on page 58 undefined on input line 1307.
-
-
-
-LaTeX Warning: Reference `MSSigmaFullEqual' on page 58 undefined on input line 
-1307.
-
-[58] [59]
-
-LaTeX Warning: Reference `fig:Check246' on page 60 undefined on input line 1349
-.
-
-
-LaTeX Warning: Reference `T0MultHE' on page 60 undefined on input line 1350.
-
-
-LaTeX Warning: Reference `T0MultHE' on page 60 undefined on input line 1351.
-
-[60]
-
-LaTeX Warning: Citation `PDG' on page 61 undefined on input line 1362.
-
-
-LaTeX Warning: Reference `fig:DispTheta' on page 61 undefined on input line 136
-4.
-
-
-LaTeX Warning: Reference `CheckTheta0Coefficient' on page 61 undefined on input
- line 1364.
-
-
-LaTeX Warning: Reference `CheckTheta0Coefficient' on page 61 undefined on input
- line 1366.
-
-
-LaTeX Warning: Reference `T0MultHE' on page 61 undefined on input line 1369.
-
-
-LaTeX Warning: Reference `Xp' on page 61 undefined on input line 1375.
-
-
-LaTeX Warning: Reference `subPol1' on page 61 undefined on input line 1376.
-
-[61] [62]
-
-LaTeX Warning: Citation `Calibr' on page 63 undefined on input line 1398.
-
-[63
-
-]
-
-LaTeX Warning: Citation `NSiDet' on page 64 undefined on input line 1423.
-
-[64]
-Underfull \hbox (badness 1173) in paragraph at lines 1430--1437
-\T2A/cmr/m/n/14.4 На пер-вый взгляд НГО (нейтрон-гамма об-на-ру-же-ние) и НГК
+] (./repionmat.bbl
+Underfull \hbox (badness 1448) in paragraph at lines 35--47
+[]\T2A/cmr/m/n/14.4 ОТЧЕТ ПО ИС-СЛЕ-ДО-ВА-НИ-ЯМ ЦЕН-ТРА ФУН-ДА-МЕН-
  []
-
-[65] [66] [67]
-
-LaTeX Warning: Citation `PSTAR' on page 68 undefined on input line 1461.
-
-
-LaTeX Warning: Citation `ASTAR' on page 68 undefined on input line 1462.
-
-
-LaTeX Warning: Citation `70/662-T' on page 68 undefined on input line 1462.
-
-
-LaTeX Warning: Citation `ESTAR' on page 68 undefined on input line 1463.
-
-
-Underfull \hbox (badness 1325) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 ба-за дан-ных PSTAR [\T2A/cmr/bx/n/14.4 ?\T2A/cmr/m/n/14.4 ],
- предо-став-ля-ю-щая кри-вые про-тон-ных
- []
-
-
-Underfull \hbox (badness 1400) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 энер-ге-ти-че-ских по-терь. Для бо-лее тя-жј-лых ионов необ-х
-о-ди-мо
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 Neon*, 11-Sodium*, 12-MAGNESIUM, 13-Aluminum*, 14-Silicon*,
- []
-
-
-Underfull \hbox (badness 3769) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 15-PHOSPHORUS, 16-SULFUR, 17-CHLORINE, 18-Argon*, 19-
- []
-
-
-Underfull \hbox (badness 5345) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 POTASSIUM, 20-CALCIUM, 21-SCANDIUM, 22-Titanum*, 23-
- []
-
-
-Underfull \hbox (badness 6741) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 VANADIUM, 24-CHROMIUM, 25-MANGANESE, 26-Iron*, 27-
- []
-
-
-Underfull \hbox (badness 5175) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 Krypton*, 37-RUBIDIUM, 38-STRONTIUM, 39-YTTRIUM, 40-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 58-CERIUM, 59-PRASEODYMIUM, 60-NEODYMIUM, 61-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 65-TERBIUM, 66-DYSPROSIUM, 67-HOLMIUM, 68-ERBIUM,
- []
-
-
-Underfull \hbox (badness 5274) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 69-THULIUM, 70-YTTERBIUM, 71-LUTETIUM, 72-HAFNIUM,
- []
-
-
-Underfull \hbox (badness 4168) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 73-TANTALUM, 74-Tungsten*, 75-RHENIUM, 76-OSMIUM, 77-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 82-Lead*, 83-BISMUTH, 84-POLONIUM, 85-ASTATINE, 86-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 RADON, 87-FRANCIUM, 88-RADIUM, 89-ACTINIUM, 90-
- []
-
-
-Underfull \hbox (badness 4072) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 THORIUM, 91-ROTACTINIUM, 92-Uranium*, 93-NEPTUNIUM,
- []
-
-
-Underfull \hbox (badness 2012) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 Polyoxymethylene, 226 Polypropylene *, 227 Polystyrene *, 228
-
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 Polytetrafluoroethylene (Teflon) *, 229 Polytrifluorochloroet
-hylene,
- []
-
-
-Underfull \hbox (badness 1406) in paragraph at lines 1459--1471
-\T2A/cmr/m/n/14.4 мо-де-ли-ро-ва-ния ней-трон-ных тру-бок необ-хо-ди-мо иметь т
-аб-ли-цы
- []
-
-[68] [69] [70]
-
-LaTeX Warning: Citation `TeorDEDX' on page 71 undefined on input line 1473.
-
-
-LaTeX Warning: Citation `pipmDEDX' on page 71 undefined on input line 1476.
-
-
-LaTeX Warning: Citation `papDEDX' on page 71 undefined on input line 1476.
-
-
-LaTeX Warning: Citation `Bichsel90' on page 71 undefined on input line 1477.
-
-
-LaTeX Warning: Citation `LindhardBarkas76' on page 71 undefined on input line 1
-477.
-
-
-LaTeX Warning: Citation `DEDXICRU49' on page 71 undefined on input line 1479.
-
-[71]
-
-LaTeX Warning: Citation `Paul1' on page 72 undefined on input line 1489.
-
-
-LaTeX Warning: Citation `Paul2' on page 72 undefined on input line 1489.
-
-
-LaTeX Warning: Citation `Paul3' on page 72 undefined on input line 1489.
-
-[72]
-
-LaTeX Warning: Citation `Peierls42' on page 73 undefined on input line 1499.
-
-
-LaTeX Warning: Citation `Weiss37' on page 73 undefined on input line 1500.
-
-[73]
-
-LaTeX Warning: Citation `Weiss37' on page 74 undefined on input line 1507.
-
-
-LaTeX Warning: Reference `FNSMax1' on page 74 undefined on input line 1513.
-
-
-LaTeX Warning: Citation `Watt52' on page 74 undefined on input line 1515.
-
-
-LaTeX Warning: Citation `Weiss37' on page 74 undefined on input line 1515.
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 1511--1516
-\T2A/cmr/m/n/14.4 Чтобы по-лу-чить экс-по-нен-ци-аль-ное па-де-ние, это рас-пре
--де-ле-ние
- []
-
-
-LaTeX Warning: Citation `ENDF/B-VII.1' on page 74 undefined on input line 1523.
-
-
-[74]
-<images/SpecLH.pdf, id=441, 280.76996pt x 283.0284pt>
-File: images/SpecLH.pdf Graphic file (type pdf)
-<use images/SpecLH.pdf>
-Package pdftex.def Info: images/SpecLH.pdf  used on input line 1527.
-(pdftex.def)             Requested size: 435.32419pt x 438.85359pt.
-
-
-LaTeX Warning: Citation `Capote16' on page 75 undefined on input line 1529.
-
-
-LaTeX Warning: Citation `Capote16' on page 75 undefined on input line 1529.
-
-
-LaTeX Warning: Reference `fig:USpecLH' on page 75 undefined on input line 1532.
-
-
-
-LaTeX Warning: Reference `fig:USpecLH' on page 75 undefined on input line 1534.
-
-
-[75 <./images/SpecLH.pdf>]
-<images/SpecU235.pdf, id=451, 284.53302pt x 200.22705pt>
-File: images/SpecU235.pdf Graphic file (type pdf)
-<use images/SpecU235.pdf>
-Package pdftex.def Info: images/SpecU235.pdf  used on input line 1540.
-(pdftex.def)             Requested size: 435.32419pt x 306.34026pt.
-
-
-LaTeX Warning: Citation `Capote16' on page 76 undefined on input line 1542.
-
-
-LaTeX Warning: Citation `Capote16' on page 76 undefined on input line 1542.
-
-
-LaTeX Warning: Reference `fig:SpecU235' on page 76 undefined on input line 1545
-.
-
-
-LaTeX Warning: Citation `ENDF/B-VII.1' on page 76 undefined on input line 1546.
-
-
-
-LaTeX Warning: Citation `Nefed83' on page 76 undefined on input line 1550.
-
-
-LaTeX Warning: Citation `Starost83' on page 76 undefined on input line 1550.
-
-
-LaTeX Warning: Citation `Starostov85' on page 76 undefined on input line 1550.
-
-
-LaTeX Warning: Citation `Lajtai85' on page 76 undefined on input line 1550.
-
-
-LaTeX Warning: Citation `Wand89' on page 76 undefined on input line 1550.
-
-
-LaTeX Warning: Citation `Kornilov10' on page 76 undefined on input line 1551.
-
-
-LaTeX Warning: Citation `Vorobyev13' on page 76 undefined on input line 1551.
-
-[76]
-<images/SpecActinid.pdf, id=455, 619.50043pt x 495.29944pt>
-File: images/SpecActinid.pdf Graphic file (type pdf)
-<use images/SpecActinid.pdf>
-Package pdftex.def Info: images/SpecActinid.pdf  used on input line 1555.
-(pdftex.def)             Requested size: 435.32419pt x 348.06006pt.
-
-
-LaTeX Warning: Citation `Capote16' on page 77 undefined on input line 1557.
-
-
-LaTeX Warning: Citation `Capote16' on page 77 undefined on input line 1557.
-
-
-LaTeX Warning: Reference `fig:SpecActinid' on page 77 undefined on input line 1
-560.
-
-
-LaTeX Warning: Citation `ENDF/B-VII.1' on page 77 undefined on input line 1561.
-
-
-
-LaTeX Warning: Reference `fig:SpecU235' on page 77 undefined on input line 1562
-.
-
-
-LaTeX Warning: Citation `ENDF/B-VII.1' on page 77 undefined on input line 1563.
-
-
-
-LaTeX Warning: Citation `Lajtai85' on page 77 undefined on input line 1564.
-
-[77 <./images/SpecU235.pdf>]
-<images/SpecModels.pdf, id=465, 297.32982pt x 192.69992pt>
-File: images/SpecModels.pdf Graphic file (type pdf)
-<use images/SpecModels.pdf>
-Package pdftex.def Info: images/SpecModels.pdf  used on input line 1569.
-(pdftex.def)             Requested size: 435.32419pt x 282.14812pt.
-
-
-LaTeX Warning: Citation `Capote16' on page 78 undefined on input line 1571.
-
-
-LaTeX Warning: Citation `Capote16' on page 78 undefined on input line 1571.
-
-
-LaTeX Warning: Reference `fig:SpecModels' on page 78 undefined on input line 15
-74.
-
-
-LaTeX Warning: Citation `ENDF/B-VII.1' on page 78 undefined on input line 1575.
-
-
-
-LaTeX Warning: Citation `MCNPX' on page 78 undefined on input line 1576.
-
-
-LaTeX Warning: Citation `FREYA1' on page 78 undefined on input line 1577.
-
-
-LaTeX Warning: Citation `FREYA2' on page 78 undefined on input line 1577.
-
-
-LaTeX Warning: Citation `PbP' on page 78 undefined on input line 1579.
-
-
-LaTeX Warning: Reference `fig:USpecLH' on page 78 undefined on input line 1580.
-
-
-
-LaTeX Warning: Reference `fig:SpecU235' on page 78 undefined on input line 1580
-.
-
-[78 <./images/SpecActinid.pdf>] [79 <./images/SpecModels.pdf>] [80]
-<images/nspec_rpp.pdf, id=488, 682.55pt x 511.9125pt>
-File: images/nspec_rpp.pdf Graphic file (type pdf)
-<use images/nspec_rpp.pdf>
-Package pdftex.def Info: images/nspec_rpp.pdf  used on input line 1600.
-(pdftex.def)             Requested size: 435.32419pt x 326.49808pt.
-
-
-LaTeX Warning: Citation `Aldrich83' on page 81 undefined on input line 1602.
-
-
-LaTeX Warning: Citation `Aldrich83' on page 81 undefined on input line 1602.
-
-
-LaTeX Warning: Reference `fig:SpecRPP' on page 81 undefined on input line 1605.
-
-
-
-LaTeX Warning: Citation `Aldrich83' on page 81 undefined on input line 1606.
-
-<images/FusionReactors.pdf, id=489, 295.07138pt x 225.06786pt>
-File: images/FusionReactors.pdf Graphic file (type pdf)
-<use images/FusionReactors.pdf>
-Package pdftex.def Info: images/FusionReactors.pdf  used on input line 1614.
-(pdftex.def)             Requested size: 435.32419pt x 332.05461pt.
-
-LaTeX Warning: Reference `fig:FusReac' on page 81 undefined on input line 1619.
-
-
-
-LaTeX Warning: Reference `fig:SpecRPP' on page 81 undefined on input line 1620.
-
-
-[81 <./images/nspec_rpp.pdf>] [82 <./images/FusionReactors.pdf>] [83] [84]
-
-LaTeX Warning: Citation `Fried2015' on page 85 undefined on input line 1655.
-
-
-LaTeX Warning: Citation `CHIPS_AP' on page 85 undefined on input line 1661.
-
-
-LaTeX Warning: Citation `70/435-T' on page 85 undefined on input line 1662.
-
-[85] [86] [87
-
-]
-Underfull \hbox (badness 1466) in paragraph at lines 1689--1695
-\T2A/cmr/m/n/14.4 что яв-ля-ет-ся услов-ной па-ра-мет-ри-за-ци-ей фор-му-лы Бет
-е-Блоха.
- []
-
-[88]
-
-LaTeX Warning: Citation `PSTAR' on page 89 undefined on input line 1704.
-
-[89]
-
-LaTeX Warning: Citation `ASTAR' on page 90 undefined on input line 1713.
-
-
-LaTeX Warning: Citation `70/241-T' on page 90 undefined on input line 1718.
-
-[90]
-<images/epa_c_l.pdf, id=534, 682.55pt x 511.9125pt>
-File: images/epa_c_l.pdf Graphic file (type pdf)
-<use images/epa_c_l.pdf>
-Package pdftex.def Info: images/epa_c_l.pdf  used on input line 1753.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxCL' on page 91 undefined on input line 1758.
-
-
-LaTeX Warning: Reference `Tmax' on page 91 undefined on input line 1764.
-
-[91] [92 <./images/epa_c_l.pdf>] [93]
-<images/epa_c_s.pdf, id=551, 682.55pt x 511.9125pt>
-File: images/epa_c_s.pdf Graphic file (type pdf)
-<use images/epa_c_s.pdf>
-Package pdftex.def Info: images/epa_c_s.pdf  used on input line 1799.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxCS' on page 94 undefined on input line 1805.
-
-[94]
-<images/epa_si_l.pdf, id=555, 682.55pt x 511.9125pt>
-File: images/epa_si_l.pdf Graphic file (type pdf)
-<use images/epa_si_l.pdf>
-Package pdftex.def Info: images/epa_si_l.pdf  used on input line 1814.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxSiL' on page 95 undefined on input line 1819.
-
-
-
-LaTeX Warning: Reference `Hegamma' on page 95 undefined on input line 1824.
-
-
-LaTeX Warning: Reference `TPTfitform' on page 95 undefined on input line 1828.
-
-
-LaTeX Warning: Reference `TPTfitform' on page 95 undefined on input line 1830.
-
-
-LaTeX Warning: Reference `BetheBloch' on page 95 undefined on input line 1832.
-
-[95 <./images/epa_c_s.pdf>] [96 <./images/epa_si_l.pdf>] [97]
-<images/epa_si_s.pdf, id=578, 682.55pt x 511.9125pt>
-File: images/epa_si_s.pdf Graphic file (type pdf)
-<use images/epa_si_s.pdf>
-Package pdftex.def Info: images/epa_si_s.pdf  used on input line 1844.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxSiS' on page 98 undefined on input line 1849.
-
-
-
-LaTeX Warning: Reference `fig:dEdxCS' on page 98 undefined on input line 1850.
-
-[98 <./images/epa_si_s.pdf>]
-<images/epa_ge_l.pdf, id=588, 682.55pt x 511.9125pt>
-File: images/epa_ge_l.pdf Graphic file (type pdf)
-<use images/epa_ge_l.pdf>
-Package pdftex.def Info: images/epa_ge_l.pdf  used on input line 1861.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxGeL' on page 99 undefined on input line 1866.
-
-
-
-LaTeX Warning: Reference `TPTfitform' on page 99 undefined on input line 1870.
-
-[99]
-<images/epa_ge_s.pdf, id=592, 682.55pt x 511.9125pt>
-File: images/epa_ge_s.pdf Graphic file (type pdf)
-<use images/epa_ge_s.pdf>
-Package pdftex.def Info: images/epa_ge_s.pdf  used on input line 1878.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxGeS' on page 100 undefined on input line 1883
-.
-
-[100 <./images/epa_ge_l.pdf>] [101 <./images/epa_ge_s.pdf>] [102]
-<images/epa_gd_l.pdf, id=614, 682.55pt x 511.9125pt>
-File: images/epa_gd_l.pdf Graphic file (type pdf)
-<use images/epa_gd_l.pdf>
-Package pdftex.def Info: images/epa_gd_l.pdf  used on input line 1904.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxGdL' on page 103 undefined on input line 1909
-.
-
-[103 <./images/epa_gd_l.pdf>]
-<images/epa_gd_s.pdf, id=625, 682.55pt x 511.9125pt>
-File: images/epa_gd_s.pdf Graphic file (type pdf)
-<use images/epa_gd_s.pdf>
-Package pdftex.def Info: images/epa_gd_s.pdf  used on input line 1920.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxGdS' on page 104 undefined on input line 1925
-.
-
-[104 <./images/epa_gd_s.pdf>]
-<images/epa_u_l.pdf, id=635, 682.55pt x 511.9125pt>
-File: images/epa_u_l.pdf Graphic file (type pdf)
-<use images/epa_u_l.pdf>
-Package pdftex.def Info: images/epa_u_l.pdf  used on input line 1934.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:dEdxUL' on page 105 undefined on input line 1939.
-
-
-
-LaTeX Warning: Reference `TPTfitform' on page 105 undefined on input line 1944.
-
-
-<images/epa_u_s.pdf, id=636, 682.55pt x 511.9125pt>
-File: images/epa_u_s.pdf Graphic file (type pdf)
-<use images/epa_u_s.pdf>
-Package pdftex.def Info: images/epa_u_s.pdf  used on input line 1948.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `fig:dEdxUS' on page 105 undefined on input line 1953.
-
-
-[105]
-
-LaTeX Warning: Reference `BetheBloch' on page 106 undefined on input line 1961.
-
-
-
-LaTeX Warning: Reference `BetheBloch' on page 106 undefined on input line 1961.
-
-
-
-LaTeX Warning: Reference `BetheBloch' on page 106 undefined on input line 1962.
-
-
-[106 <./images/epa_u_l.pdf>]
-<images/iofz.pdf, id=649, 682.55pt x 511.9125pt>
-File: images/iofz.pdf Graphic file (type pdf)
-<use images/iofz.pdf>
-Package pdftex.def Info: images/iofz.pdf  used on input line 1966.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:iofz' on page 107 undefined on input line 1971.
-
-[107 <./images/epa_u_s.pdf>]
-<images/denf_wat.pdf, id=659, 682.55pt x 511.9125pt>
-File: images/denf_wat.pdf Graphic file (type pdf)
-<use images/denf_wat.pdf>
-Package pdftex.def Info: images/denf_wat.pdf  used on input line 1980.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:denf_wat' on page 108 undefined on input line 198
-5.
-
-[108 <./images/iofz.pdf>]
-<images/denf_prop.pdf, id=669, 682.55pt x 511.9125pt>
-File: images/denf_prop.pdf Graphic file (type pdf)
-<use images/denf_prop.pdf>
-Package pdftex.def Info: images/denf_prop.pdf  used on input line 1997.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
- [109 <./images/denf_wat.pdf>]
-
-LaTeX Warning: Reference `fig:denf_prop' on page 110 undefined on input line 20
-02.
-
-<images/denf_all.pdf, id=680, 682.55pt x 511.9125pt>
-File: images/denf_all.pdf Graphic file (type pdf)
-<use images/denf_all.pdf>
-Package pdftex.def Info: images/denf_all.pdf  used on input line 2008.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `fig:denf_all' on page 110 undefined on input line 201
-3.
-
-[110 <./images/denf_prop.pdf>] [111 <./images/denf_all.pdf>]
-<images/denf_rearth.pdf, id=700, 682.55pt x 511.9125pt>
-File: images/denf_rearth.pdf Graphic file (type pdf)
-<use images/denf_rearth.pdf>
-Package pdftex.def Info: images/denf_rearth.pdf  used on input line 2026.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:denf_rearth' on page 112 undefined on input line 
-2031.
-
-<images/denf_metal.pdf, id=701, 682.55pt x 511.9125pt>
-File: images/denf_metal.pdf Graphic file (type pdf)
-<use images/denf_metal.pdf>
-Package pdftex.def Info: images/denf_metal.pdf  used on input line 2037.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `fig:denf_metal' on page 112 undefined on input line 2
-042.
-
-[112 <./images/denf_rearth.pdf>] [113 <./images/denf_metal.pdf>]
-
-LaTeX Warning: Reference `GeneralGamma' on page 114 undefined on input line 207
-5.
-
-[114]
-
-LaTeX Warning: Reference `pseudo-gamma' on page 115 undefined on input line 208
-6.
-
-
-LaTeX Warning: Reference `GeneralGamma' on page 115 undefined on input line 208
-6.
-
-
-LaTeX Warning: Reference `Hegamma' on page 115 undefined on input line 2086.
-
-
-LaTeX Warning: Reference `GeneralGamma' on page 115 undefined on input line 208
-6.
-
-
-LaTeX Warning: Reference `Sn' on page 115 undefined on input line 2126.
-
-[115] [116]
-
-LaTeX Warning: Reference `fig:MultScat' on page 117 undefined on input line 213
-5.
-
-<images/alphaInTi_200_keV_100_part.pdf, id=730, 427.5975pt x 412.54124pt>
-File: images/alphaInTi_200_keV_100_part.pdf Graphic file (type pdf)
-<use images/alphaInTi_200_keV_100_part.pdf>
-Package pdftex.def Info: images/alphaInTi_200_keV_100_part.pdf  used on input l
-ine 2142.
-(pdftex.def)             Requested size: 217.6621pt x 209.99667pt.
-<images/alphaInTi_600_keV_100_part.pdf, id=731, 423.08063pt x 420.82219pt>
-File: images/alphaInTi_600_keV_100_part.pdf Graphic file (type pdf)
-<use images/alphaInTi_600_keV_100_part.pdf>
-Package pdftex.def Info: images/alphaInTi_600_keV_100_part.pdf  used on input l
-ine 2143.
-(pdftex.def)             Requested size: 217.6621pt x 216.49788pt.
-[117 <./images/alphaInTi_200_keV_100_part.pdf> <./images/alphaInTi_600_keV_100_
-part.pdf>]
-
-LaTeX Warning: Citation `Bethe' on page 118 undefined on input line 2176.
-
-
-LaTeX Warning: Citation `Lynch91' on page 118 undefined on input line 2176.
-
-
-LaTeX Warning: Citation `Scott' on page 118 undefined on input line 2183.
-
-
-LaTeX Warning: Citation `Shen' on page 118 undefined on input line 2183.
-
-[118]
-
-LaTeX Warning: Citation `Wong' on page 119 undefined on input line 2186.
-
-
-LaTeX Warning: Citation `Eyges' on page 119 undefined on input line 2187.
-
-
-LaTeX Warning: Citation `RossiGreisen' on page 119 undefined on input line 2193
-.
-
-
-LaTeX Warning: Citation `Wong' on page 119 undefined on input line 2199.
-
-
-LaTeX Warning: Citation `Kanematsu9' on page 119 undefined on input line 2200.
-
-[119] [120] [121]
-Underfull \hbox (badness 1448) in paragraph at lines 2221--2221
-|[]\T2A/cmr/bx/n/17.28 TPT мо-де-ли-ро-ва-ние ион-ионного ядер-но-го
- []
-
-
-LaTeX Warning: Citation `70/190-T' on page 122 undefined on input line 2226.
-
-
-LaTeX Warning: Citation `IgashSol17' on page 122 undefined on input line 2234.
-
-
-LaTeX Warning: Citation `70/662-T' on page 122 undefined on input line 2236.
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 2233--2243
-[]\T2A/cmr/m/n/14.4 С дру-гой сто-ро-ны, мик-ро-ско-пи-че-ская мо-дель ре-зо-ни
--ру-ю-щих
- []
-
-[122
-
-] [123] [124] [125] [126]
-
-LaTeX Warning: Citation `SRIM' on page 127 undefined on input line 2280.
-
-
-LaTeX Warning: Reference `Xp' on page 127 undefined on input line 2288.
-
-
-LaTeX Warning: Reference `Dimension1p' on page 127 undefined on input line 2290
-.
-
-[127]
-
-LaTeX Warning: Citation `G4IonIon' on page 128 undefined on input line 2298.
-
-
-LaTeX Warning: Citation `LinhardScreeningLength' on page 128 undefined on input
- line 2306.
-
-
-LaTeX Warning: Citation `ThomasFermiModel' on page 128 undefined on input line 
-2313.
-
-
-LaTeX Warning: Reference `Tmax' on page 128 undefined on input line 2315.
-
-
-LaTeX Warning: Reference `Xp' on page 128 undefined on input line 2316.
-
-
-LaTeX Warning: Reference `MS1' on page 128 undefined on input line 2316.
-
-
-LaTeX Warning: Reference `MSSigmaFull' on page 128 undefined on input line 2324
-.
-
-
-LaTeX Warning: Reference `MSSigmaFull' on page 128 undefined on input line 2324
-.
-
-[128]
-
-LaTeX Warning: Reference `MSSigmaFull' on page 129 undefined on input line 2332
-.
-
-
-LaTeX Warning: Reference `MSSigmaFullEqual' on page 129 undefined on input line
- 2332.
-
-[129] [130]
-Underfull \hbox (badness 10000) in paragraph at lines 2362--2364
-[]\T2A/cmr/m/n/14.4 Предварительно им-пульс на-ле-та-ю-щей ча-сти-цы $[] []$
- []
-
-
-LaTeX Warning: Reference `MandelstamSp' on page 131 undefined on input line 237
-0.
-
-
-LaTeX Warning: Reference `MS1' on page 131 undefined on input line 2374.
-
-[131]
-
-LaTeX Warning: Reference `Xp' on page 132 undefined on input line 2382.
-
-
-LaTeX Warning: Reference `Xp' on page 132 undefined on input line 2382.
-
-[132]
-
-LaTeX Warning: Citation `PDG' on page 133 undefined on input line 2420.
-
-[133]
-
-LaTeX Warning: Reference `fig:Thin_theta' on page 134 undefined on input line 2
-436.
-
-<images/thin_theta.pdf, id=786, 682.55pt x 511.9125pt>
-File: images/thin_theta.pdf Graphic file (type pdf)
-<use images/thin_theta.pdf>
-Package pdftex.def Info: images/thin_theta.pdf  used on input line 2440.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `fig:Thin_theta' on page 134 undefined on input line 2
-447.
-
-[134]
-
-LaTeX Warning: Reference `fig:Thick_theta' on page 135 undefined on input line 
-2458.
-
-[135 <./images/thin_theta.pdf>]
-<images/thick_theta.pdf, id=799, 682.55pt x 511.9125pt>
-File: images/thick_theta.pdf Graphic file (type pdf)
-<use images/thick_theta.pdf>
-Package pdftex.def Info: images/thick_theta.pdf  used on input line 2462.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
- [136 <./images/thick_theta.pdf>]
-
-LaTeX Warning: Reference `fig:Thin_theta' on page 137 undefined on input line 2
-487.
-
-
-LaTeX Warning: Reference `fig:Thick_theta' on page 137 undefined on input line 
-2487.
-
-[137]
-File: images/pars135.pdf Graphic file (type pdf)
-<use images/pars135.pdf>
-Package pdftex.def Info: images/pars135.pdf  used on input line 2491.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:Par1theta' on page 138 undefined on input line 24
-97.
-
-
-LaTeX Warning: Reference `fig:Par1theta' on page 138 undefined on input line 25
-05.
-
-
-LaTeX Warning: Reference `fig:Thin_theta' on page 138 undefined on input line 2
-505.
-
-
-LaTeX Warning: Reference `fig:Thick_theta' on page 138 undefined on input line 
-2505.
-
-[138]
-
-LaTeX Warning: Reference `fig:Par1theta' on page 139 undefined on input line 25
-19.
-
-[139]
-
-LaTeX Warning: Reference `fig:Par1theta' on page 140 undefined on input line 25
-34.
-
-
-LaTeX Warning: Reference `MSApproximationW3' on page 140 undefined on input lin
-e 2535.
-
-<images/check_norm_constant.pdf, id=819, 682.55pt x 511.9125pt>
-File: images/check_norm_constant.pdf Graphic file (type pdf)
-<use images/check_norm_constant.pdf>
-Package pdftex.def Info: images/check_norm_constant.pdf  used on input line 254
-0.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `MSApproximationFunction' on page 140 undefined on inp
-ut line 2546.
-
-
-LaTeX Warning: Reference `fig:Norma' on page 140 undefined on input line 2547.
-
-[140]
-File: images/pars246.pdf Graphic file (type pdf)
-<use images/pars246.pdf>
-Package pdftex.def Info: images/pars246.pdf  used on input line 2555.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:DispTheta' on page 141 undefined on input line 25
-61.
-
-
-LaTeX Warning: Reference `fig:Par1theta' on page 141 undefined on input line 25
-63.
-
-[141 <./images/check_norm_constant.pdf>] [142]
-<images/rms.pdf, id=835, 682.55pt x 511.9125pt>
-File: images/rms.pdf Graphic file (type pdf)
-<use images/rms.pdf>
-Package pdftex.def Info: images/rms.pdf  used on input line 2596.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Reference `fig:Check246' on page 143 undefined on input line 260
-2.
-
-
-LaTeX Warning: Reference `T0MultHE' on page 143 undefined on input line 2603.
-
-
-LaTeX Warning: Reference `T0MultHE' on page 143 undefined on input line 2604.
-
-[143 <./images/rms.pdf>]
-
-LaTeX Warning: Citation `PDG' on page 144 undefined on input line 2615.
-
-
-LaTeX Warning: Reference `fig:DispTheta' on page 144 undefined on input line 26
-17.
-
-
-LaTeX Warning: Reference `CheckTheta0Coefficient' on page 144 undefined on inpu
-t line 2617.
-
-
-LaTeX Warning: Reference `CheckTheta0Coefficient' on page 144 undefined on inpu
-t line 2619.
-
-
-LaTeX Warning: Reference `T0MultHE' on page 144 undefined on input line 2622.
-
-
-LaTeX Warning: Reference `Xp' on page 144 undefined on input line 2628.
-
-
-LaTeX Warning: Reference `subPol1' on page 144 undefined on input line 2629.
-
-[144]
-Underfull \hbox (badness 1546) in paragraph at lines 2632--2632
-|[]\T2A/cmr/bx/n/14.4 ТРТ ап-прок-си-ма-ция диф-фе-рен-ци-аль-ных се-че-ний
- []
-
-
-LaTeX Warning: Citation `Sys_pA' on page 145 undefined on input line 2639.
-
-[145]
-
-LaTeX Warning: Citation `NuclGlor' on page 146 undefined on input line 2648.
-
-[146]
-
-LaTeX Warning: Citation `Gamow1928' on page 147 undefined on input line 2651.
-
-
-LaTeX Warning: Citation `ThermonuclearReactionRates_GamowEnergy' on page 147 un
-defined on input line 2651.
-
-
-LaTeX Warning: Citation `ThermonuclearReactionRates_GamowEnergy' on page 147 un
-defined on input line 2658.
-
-[147]
-
-LaTeX Warning: Reference `ARp' on page 148 undefined on input line 2691.
-
-
-LaTeX Warning: Reference `Xp' on page 148 undefined on input line 2701.
-
-[148]
-
-LaTeX Warning: Citation `LandauLifshitzMechanics' on page 149 undefined on inpu
-t line 2703.
-
-
-LaTeX Warning: Reference `Jacobianp' on page 149 undefined on input line 2708.
-
-
-LaTeX Warning: Reference `dSigmadModtp' on page 149 undefined on input line 270
-8.
-
-
-LaTeX Warning: Reference `MS1' on page 149 undefined on input line 2716.
-
 
 LaTeX Warning: Citation `LandauLifshitzNonrelativisticQM' on page 149 undefined
  on input line 2720.
 
-[149]
+Underfull \hbox (badness 1642) in paragraph at lines 35--47
+\T2A/cmr/m/n/14.4 ТАЛЬ-НЫХ И ПРИ-КЛАД-НЫХ ИС-СЛЕ-ДО-ВА-НИЙ ФГУП
+ []
 
 LaTeX Warning: Reference `GamovPp' on page 150 undefined on input line 2725.
 
-
-LaTeX Warning: Citation `Norman09' on page 150 undefined on input line 2728.
-
-
-LaTeX Warning: Citation `OBEM' on page 150 undefined on input line 2728.
-
-
-LaTeX Warning: Reference `dSigmadOmegaCMpFull' on page 150 undefined on input l
-ine 2730.
-
-
-LaTeX Warning: Reference `dSigmadOmegaCMp' on page 150 undefined on input line 
-2736.
-
-[150]
-
-LaTeX Warning: Reference `dSigmadOmegaSimplep' on page 151 undefined on input l
-ine 2747.
-
-
-LaTeX Warning: Reference `dSigmadOmegaCMp' on page 151 undefined on input line 
-2752.
-
-
-LaTeX Warning: Reference `dSigmadOmegaCMpFull' on page 151 undefined on input l
-ine 2757.
-
-
-LaTeX Warning: Reference `Xp' on page 151 undefined on input line 2769.
-
-
-LaTeX Warning: Reference `Term1p' on page 151 undefined on input line 2786.
-
-
-LaTeX Warning: Reference `Term2p' on page 151 undefined on input line 2787.
-
-[151]
-<images/pp.pdf, id=872, 682.55pt x 511.9125pt>
-File: images/pp.pdf Graphic file (type pdf)
-<use images/pp.pdf>
-Package pdftex.def Info: images/pp.pdf  used on input line 2799.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-
-LaTeX Warning: Citation `PP1_Wassmer' on page 152 undefined on input line 2802.
-
-
-
-LaTeX Warning: Citation `PP2_Worthigton' on page 152 undefined on input line 28
-02.
-
-
-LaTeX Warning: Citation `PP3_Blair' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP4_Imai' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP5_Johnston' on page 152 undefined on input line 2802
-.
-
-
-LaTeX Warning: Citation `PP6_Kikuchi' on page 152 undefined on input line 2802.
-
-
-
-LaTeX Warning: Citation `PP7_Berdoz' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP8_Taylor' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP9_Mahjour' on page 152 undefined on input line 2802.
-
-
-
-LaTeX Warning: Reference `dSigmadTp' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP1_Wassmer' on page 152 undefined on input line 2802.
-
-
-
-LaTeX Warning: Citation `PP2_Worthigton' on page 152 undefined on input line 28
-02.
-
-
-LaTeX Warning: Citation `PP3_Blair' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP4_Imai' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP5_Johnston' on page 152 undefined on input line 2802
-.
-
-
-LaTeX Warning: Citation `PP6_Kikuchi' on page 152 undefined on input line 2802.
-
-
-
-LaTeX Warning: Citation `PP7_Berdoz' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP8_Taylor' on page 152 undefined on input line 2802.
-
-
-LaTeX Warning: Citation `PP9_Mahjour' on page 152 undefined on input line 2802.
-
-
-
-LaTeX Warning: Reference `dSigmadTp' on page 152 undefined on input line 2802.
-
-<images/1as_pp.pdf, id=873, 682.55pt x 511.9125pt>
-File: images/1as_pp.pdf Graphic file (type pdf)
-<use images/1as_pp.pdf>
-Package pdftex.def Info: images/1as_pp.pdf  used on input line 2808.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-<images/2phases.pdf, id=874, 682.55pt x 511.9125pt>
-File: images/2phases.pdf Graphic file (type pdf)
-<use images/2phases.pdf>
-Package pdftex.def Info: images/2phases.pdf  used on input line 2816.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `fig:1as_pp' on page 152 undefined on input line 2822.
-
-
-
-LaTeX Warning: Reference `fig:2phases_pp' on page 152 undefined on input line 2
-822.
-
-
-LaTeX Warning: Reference `fig:1as_pp' on page 152 undefined on input line 2824.
-
-
-
-LaTeX Warning: Reference `GamovPp' on page 152 undefined on input line 2829.
-
-[152] [153 <./images/pp.pdf>]
-
-LaTeX Warning: Reference `fig:pp' on page 154 undefined on input line 2845.
-
-
-LaTeX Warning: Reference `Term1p' on page 154 undefined on input line 2845.
-
-
-LaTeX Warning: Reference `Finddp' on page 154 undefined on input line 2845.
-
-
-LaTeX Warning: Reference `AmplitudeSp' on page 154 undefined on input line 2845
-.
-
-
-LaTeX Warning: Reference `Phasesp' on page 154 undefined on input line 2845.
-
-
-LaTeX Warning: Citation `PP1_Wassmer' on page 154 undefined on input line 2847.
-
-
-
-LaTeX Warning: Citation `PP2_Worthigton' on page 154 undefined on input line 28
-47.
-
-
-LaTeX Warning: Citation `PP3_Blair' on page 154 undefined on input line 2847.
-
-
-LaTeX Warning: Citation `PP4_Imai' on page 154 undefined on input line 2847.
-
-
-LaTeX Warning: Citation `PP5_Johnston' on page 154 undefined on input line 2847
-.
-
-
-LaTeX Warning: Citation `PP6_Kikuchi' on page 154 undefined on input line 2847.
-
-
-
-LaTeX Warning: Citation `PP7_Berdoz' on page 154 undefined on input line 2847.
-
-
-LaTeX Warning: Citation `PP8_Taylor' on page 154 undefined on input line 2847.
-
-
-LaTeX Warning: Citation `PP9_Mahjour' on page 154 undefined on input line 2847.
-
-
-<images/pp100kev.pdf, id=887, 682.55pt x 511.9125pt>
-File: images/pp100kev.pdf Graphic file (type pdf)
-<use images/pp100kev.pdf>
-Package pdftex.def Info: images/pp100kev.pdf  used on input line 2853.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `dSigmadTp' on page 154 undefined on input line 2855.
-
-
-LaTeX Warning: Reference `dSigmadTp' on page 154 undefined on input line 2855.
-
-
-LaTeX Warning: Reference `fig:pp100kev' on page 154 undefined on input line 285
-9.
-
-
-LaTeX Warning: Reference `dSigmadTp' on page 154 undefined on input line 2859.
-
-
-LaTeX Warning: Reference `fig:pp100kev' on page 154 undefined on input line 286
-0.
-
-
-LaTeX Warning: Citation `MigdalPP' on page 154 undefined on input line 2862.
-
-
-LaTeX Warning: Citation `WatsonPP' on page 154 undefined on input line 2862.
-
-[154 <./images/1as_pp.pdf>] [155 <./images/2phases.pdf>] [156 <./images/pp100ke
-v.pdf>]
-
-LaTeX Warning: Reference `fig:pp' on page 157 undefined on input line 2866.
-
-
-Underfull \hbox (badness 1043) in paragraph at lines 2874--2874
-|[]\T2A/cmr/bx/n/14.4 ТРТ ап-прок-си-ма-ция диф-фе-рен-ци-аль-но-го се-че-ния
+Underfull \hbox (badness 5091) in paragraph at lines 50--58
+[]\OT1/cmr/m/n/14.4 Review of Par-ti-cle Physics / M. Tan-abashi, K. Hagi-
  []
 
 
-LaTeX Warning: Reference `GamovEnergyp' on page 157 undefined on input line 287
-8.
-
-<images/4parfit.pdf, id=915, 682.55pt x 511.9125pt>
-File: images/4parfit.pdf Graphic file (type pdf)
-<use images/4parfit.pdf>
-Package pdftex.def Info: images/4parfit.pdf  used on input line 2882.
-(pdftex.def)             Requested size: 459.51051pt x 344.63556pt.
-
-LaTeX Warning: Reference `fig:4parfit_dd' on page 157 undefined on input line 2
-887.
-
-[157]
-
-LaTeX Warning: Reference `GamovPp' on page 158 undefined on input line 2894.
-
-
-LaTeX Warning: Reference `fig:1as_pp' on page 158 undefined on input line 2898.
-
-
-[158 <./images/4parfit.pdf>]
-
-LaTeX Warning: Reference `MandelstamSTcmp' on page 159 undefined on input line 
-2908.
-
-[159]
-
-LaTeX Warning: Citation `LandauLifshitzNonrelativisticQM' on page 160 undefined
- on input line 2927.
-
-
-LaTeX Warning: Citation `LandauLifshitzNonrelativisticQM' on page 160 undefined
- on input line 2932.
-
-
-LaTeX Warning: Reference `dSigmadOmegaCMFull' on page 160 undefined on input li
-ne 2934.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrt invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrshch invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrery invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyro invalid in math mode on input line 2935.
-
-
-LaTeX Warning: Command \cyrya invalid in math mode on input line 2935.
-
-Missing character: There is no о in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no т in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no щ in font cmr12!
-Missing character: There is no и in font cmr12!
-Missing character: There is no н in font cmr12!
-Missing character: There is no ы in font cmr12!
-Missing character: There is no с in font cmr12!
-Missing character: There is no л in font cmr12!
-Missing character: There is no о in font cmr12!
-Missing character: There is no я in font cmr12!
-[160]
-
-LaTeX Warning: Reference `EqualCoeffficientsp' on page 161 undefined on input l
-ine 2939.
-
-
-LaTeX Warning: Reference `Xp' on page 161 undefined on input line 2944.
-
-
-LaTeX Warning: Reference `Artotp' on page 161 undefined on input line 2946.
-
-
-LaTeX Warning: Reference `dSigmadTp' on page 161 undefined on input line 2946.
-
-
-LaTeX Warning: Reference `ARp' on page 161 undefined on input line 2951.
-
-
-LaTeX Warning: Reference `dSigmadOmegaCMFull' on page 161 undefined on input li
-ne 2968.
-
-<images/dd.pdf, id=935, 682.55pt x 511.9125pt>
-File: images/dd.pdf Graphic file (type pdf)
-<use images/dd.pdf>
-Package pdftex.def Info: images/dd.pdf  used on input line 2973.
-(pdftex.def)             Requested size: 459.51051pt x 344.63556pt.
-
-LaTeX Warning: Citation `DD1_Blair' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD2_Wilson' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD3_Brolley' on page 161 undefined on input line 2976.
-
-
-
-LaTeX Warning: Citation `DD4_Burrows' on page 161 undefined on input line 2976.
-
-
-
-LaTeX Warning: Citation `DD5_Nemec' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD6_Rosen1' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD7_Rosen2' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD8_Allred' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD9_Jarmie' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD10_Okihana' on page 161 undefined on input line 2976
-.
-
-
-LaTeX Warning: Citation `DD11_Itoh' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD_Oers' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD12_Beliuskina' on page 161 undefined on input line 2
-976.
-
-
-LaTeX Warning: Citation `DD13_Alderliesten' on page 161 undefined on input line
- 2976.
-
-
-LaTeX Warning: Citation `DD14_Brueckmann' on page 161 undefined on input line 2
-976.
-
-
-LaTeX Warning: Citation `DD15_Micherdzinska' on page 161 undefined on input lin
-e 2976.
-
-
-LaTeX Warning: Reference `dSigmaRdx' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD1_Blair' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD2_Wilson' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD3_Brolley' on page 161 undefined on input line 2976.
-
-
-
-LaTeX Warning: Citation `DD4_Burrows' on page 161 undefined on input line 2976.
-
-
-
-LaTeX Warning: Citation `DD5_Nemec' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD6_Rosen1' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD7_Rosen2' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD8_Allred' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD9_Jarmie' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD10_Okihana' on page 161 undefined on input line 2976
-.
-
-
-LaTeX Warning: Citation `DD11_Itoh' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD_Oers' on page 161 undefined on input line 2976.
-
-
-LaTeX Warning: Citation `DD12_Beliuskina' on page 161 undefined on input line 2
-976.
-
-
-LaTeX Warning: Citation `DD13_Alderliesten' on page 161 undefined on input line
- 2976.
-
-
-LaTeX Warning: Citation `DD14_Brueckmann' on page 161 undefined on input line 2
-976.
-
-
-LaTeX Warning: Citation `DD15_Micherdzinska' on page 161 undefined on input lin
-e 2976.
-
-
-LaTeX Warning: Reference `dSigmaRdx' on page 161 undefined on input line 2976.
-
-[161] [162 <./images/dd.pdf>]
-
-LaTeX Warning: Reference `fig:dd' on page 163 undefined on input line 2997.
-
-
-LaTeX Warning: Reference `Term1' on page 163 undefined on input line 2997.
-
-
-LaTeX Warning: Reference `Findd' on page 163 undefined on input line 2997.
-
-
-LaTeX Warning: Reference `AmplitudeTU' on page 163 undefined on input line 2997
-.
-
-
-LaTeX Warning: Reference `Phasetu' on page 163 undefined on input line 2997.
-
-
-LaTeX Warning: Citation `DD1_Blair' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD2_Wilson' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD3_Brolley' on page 163 undefined on input line 2999.
-
-
-
-LaTeX Warning: Citation `DD4_Burrows' on page 163 undefined on input line 2999.
-
-
-
-LaTeX Warning: Citation `DD5_Nemec' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD6_Rosen1' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD7_Rosen2' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD8_Allred' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD9_Jarmie' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD10_Okihana' on page 163 undefined on input line 2999
-.
-
-
-LaTeX Warning: Citation `DD11_Itoh' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD_Oers' on page 163 undefined on input line 2999.
-
-
-LaTeX Warning: Citation `DD12_Beliuskina' on page 163 undefined on input line 2
-999.
-
-
-LaTeX Warning: Citation `DD13_Alderliesten' on page 163 undefined on input line
- 2999.
-
-
-LaTeX Warning: Citation `DD14_Brueckmann' on page 163 undefined on input line 2
-999.
-
-
-LaTeX Warning: Citation `DD15_Micherdzinska' on page 163 undefined on input lin
-e 2999.
-
-<images/dd100kev.pdf, id=948, 682.55pt x 511.9125pt>
-File: images/dd100kev.pdf Graphic file (type pdf)
-<use images/dd100kev.pdf>
-Package pdftex.def Info: images/dd100kev.pdf  used on input line 3003.
-(pdftex.def)             Requested size: 478.86252pt x 359.14867pt.
-
-LaTeX Warning: Reference `dSigmaRdx' on page 163 undefined on input line 3005.
-
-
-LaTeX Warning: Reference `dSigmaRdx' on page 163 undefined on input line 3005.
-
-
-LaTeX Warning: Reference `fig:dd100kev' on page 163 undefined on input line 300
-9.
-
-
-LaTeX Warning: Reference `dSigmaRdx' on page 163 undefined on input line 3009.
-
-
-LaTeX Warning: Reference `fig:dd100kev' on page 163 undefined on input line 301
-0.
-
-
-LaTeX Warning: Reference `fig:2phases_pp' on page 163 undefined on input line 3
-010.
-
-[163 <./images/dd100kev.pdf>]
-
-LaTeX Warning: Citation `MSLEn' on page 164 undefined on input line 3019.
-
-[164] [165] [166]
-Underfull \hbox (badness 4595) in paragraph at lines 3029--3029
-|[]\T2A/cmr/bx/n/17.28 Дискретное мо-де-ли-ро-ва-ние мно-го-крат-но-го
- []
-
-[167
-
-]
-
-LaTeX Warning: Citation `IonEl' on page 168 undefined on input line 3051.
-
-[168]
-<images/6338_0.pdf, id=974, 1846.9pt x 1016.79875pt>
-File: images/6338_0.pdf Graphic file (type pdf)
-<use images/6338_0.pdf>
-Package pdftex.def Info: images/6338_0.pdf  used on input line 3066.
-(pdftex.def)             Requested size: 478.86252pt x 263.63223pt.
-
-
-LaTeX Warning: Reference `fig:SiAlpha19MeV' on page 169 undefined on input line
- 3071.
-
-[169] [170 <./images/6338_0.pdf>]
-<images/1831_0.pdf, id=986, 1846.9pt x 1016.79875pt>
-File: images/1831_0.pdf Graphic file (type pdf)
-<use images/1831_0.pdf>
-Package pdftex.def Info: images/1831_0.pdf  used on input line 3085.
-(pdftex.def)             Requested size: 478.86252pt x 263.63223pt.
-
-
-LaTeX Warning: Reference `fig:nSiElastic19MeV' on page 171 undefined on input l
-ine 3090.
-
-
-LaTeX Warning: Reference `fig:SiAlpha19MeV' on page 171 undefined on input line
- 3092.
-
-
-Underfull \hbox (badness 3792) in paragraph at lines 3090--3100
-[]\T2A/cmr/m/n/14.4 На Рис. [] по-ка-зан крем-ни-е-вый кас-кад, воз-ни-ка-ю-щий
- в
- []
-
-[171 <./images/1831_0.pdf>]
-<images/7_0_Cf_fission.pdf, id=994, 1927.2pt x 1016.79875pt>
-File: images/7_0_Cf_fission.pdf Graphic file (type pdf)
-<use images/7_0_Cf_fission.pdf>
-Package pdftex.def Info: images/7_0_Cf_fission.pdf  used on input line 3103.
-(pdftex.def)             Requested size: 478.86252pt x 252.64755pt.
-
-
-LaTeX Warning: Reference `fig:CfFisIon' on page 172 undefined on input line 310
-8.
-
-[172 <./images/7_0_Cf_fission.pdf>] [173] [174]
-Underfull \hbox (badness 1590) in paragraph at lines 3147--3154
-\T2A/cmr/m/n/14.4 ци-а-ли-ста-ми мо-ле-ку-ляр-ной ди-на-ми-ки раз-ра-бо-тать ин
--тер-фейс к
+Underfull \hbox (badness 4531) in paragraph at lines 50--58
+\OT1/cmr/m/n/14.4 wara, K. Hikasa et al. // \OT1/cmr/m/n/10.95 Phys. Rev. D\OT1
+/cmr/m/n/14.4 . [] 2018. []
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 3147--3154
-\T2A/cmr/m/n/14.4 про-грамм-но-му ком-плек-су ТРТ, ко-то-рый поз-во-лил бы за-п
-и-сы-
+Underfull \hbox (badness 10000) in paragraph at lines 50--58
+\OT1/cmr/m/n/14.4 Aug. [] Vol. 98. [] P. 030001. [] Ac-cess mode:
  []
 
+[60
 
-Underfull \hbox (badness 2103) in paragraph at lines 3147--3154
-\T2A/cmr/m/n/14.4 вать ре-зуль-та-ты мо-де-ли-ро-ва-ния в удоб-ном для молекуля
-рно-
- []
-
-[175
-
-] [176] [177] [178] [179
-
-]
-No file reptptgeom.bbl.
-
-Package lastpage Warning: Rerun to get the references right on input line 3194.
-
-
-
+]) 
 AED: lastpage setting LastPage
-
-Package totalcount Warning: Total counter(s) have changed.
-(totalcount)                Rerun to get them right.
-
-(./reptptgeom.aux)
-
-LaTeX Warning: There were undefined references.
-
+[61] (./repionmat.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 25537 strings out of 492982
- 486063 string characters out of 6134896
- 507198 words of memory out of 5000000
- 28662 multiletter control sequences out of 15000+600000
+ 25163 strings out of 492982
+ 478751 string characters out of 6134896
+ 502153 words of memory out of 5000000
+ 28319 multiletter control sequences out of 15000+600000
  552176 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,17n,54p,10361b,687s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,13n,54p,10360b,627s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
@@ -3830,10 +1971,10 @@ fb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf
 cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pf
 b></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on reptptgeom.pdf (179 pages, 4258043 bytes).
+Output written on repionmat.pdf (61 pages, 1897626 bytes).
 PDF statistics:
- 1113 PDF objects out of 1200 (max. 8388607)
- 717 compressed objects within 8 object streams
+ 485 PDF objects out of 1000 (max. 8388607)
+ 318 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 328 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

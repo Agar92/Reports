@@ -1,0 +1,88 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: repionmat.aux
+The style file: ugost2008.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: repionmat.bib
+I was expecting a `,' or a `}'---line 231 of file repionmat.bib
+ :   
+ :   pages = "298-315",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1339 of file repionmat.bib
+ :   journal = Nucl. 
+ :                   Theory,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2690 of file repionmat.bib
+ :   journal = Nucl. 
+ :                   Data Sheets,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2699 of file repionmat.bib
+ :   journal = Nucl. 
+ :                   Data Sheets,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2915 of file repionmat.bib
+ : @article{SRIM
+ :              ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty year in PGI
+Warning--empty year in OpenAcc
+Warning--empty title in DD1_Blair
+Warning--empty title in DD2_Wilson
+Warning--empty title in DD3_Brolley
+Warning--empty title in DD4_Burrows
+Warning--empty title in DD5_Nemec
+Warning--empty title in DD6_Rosen1
+Warning--empty title in DD7_Rosen2
+Warning--empty title in DD8_Allred
+Warning--empty title in DD10_Okihana
+Warning--empty title in DD11_Itoh
+Warning--empty title in DD_Oers
+Warning--empty title in DD12_Beliuskina
+Warning--empty title in DD13_Alderliesten
+Warning--empty title in DD14_Brueckmann
+Warning--empty title in DD15_Micherdzinska
+You've used 24 entries,
+            4636 wiz_defined-function locations,
+            1485 strings with 18287 characters,
+and the built_in function-call counts, 8917 in all, are:
+= -- 990
+> -- 307
+< -- 39
++ -- 95
+- -- 71
+* -- 507
+:= -- 880
+add.period$ -- 88
+call.type$ -- 24
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 527
+empty$ -- 942
+format.name$ -- 71
+if$ -- 2386
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 0
+newline$ -- 170
+num.names$ -- 64
+pop$ -- 178
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 510
+stack$ -- 0
+substring$ -- 182
+swap$ -- 373
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 17
+while$ -- 43
+width$ -- 26
+write$ -- 343
+(There were 5 error messages)

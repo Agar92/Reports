@@ -1,0 +1,203 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\selectlanguage{#1}\fi}
+\providecommand*{\href}[2]{{\small #2}}
+\providecommand*{\url}[1]{{\small #1}}
+\providecommand*{\BibUrl}[1]{\url{#1}}
+\providecommand{\BibAnnote}[1]{}
+\providecommand*{\BibEmph}[1]{#1}
+\ProvideTextCommandDefault{\cyrdash}{\iflanguage{russian}{\hbox
+  to.8em{--\hss--}}{\textemdash}}
+\providecommand*{\BibDash}{\ifdim\lastskip>0pt\unskip\nobreak\hskip.2em plus
+  0.1em\fi
+\cyrdash\hskip.2em plus 0.1em\ignorespaces}
+\renewcommand{\newblock}{\ignorespaces}
+
+\bibitem{Geant4.1}
+\selectlanguageifdefined{english}
+\BibEmph{Agostinelli~S., et~al. The Geant4~Collaboration}. Geant4 - a
+  simulation toolkit~// \BibEmph{Nuclear Instruments and Methods A}. \BibDash
+\newblock 2003. \BibDash March. \BibDash
+\newblock Vol. 506. \BibDash
+\newblock P.~250--303.
+
+\bibitem{PGI}
+\selectlanguageifdefined{english}
+Access mode: \BibUrl{\url{https://www.pgroup.com}}.
+
+\bibitem{OpenAcc}
+\selectlanguageifdefined{english}
+Access mode: \BibUrl{\url{https://www.openacc.org}}.
+
+\bibitem{70/778-T}
+\selectlanguageifdefined{russian}
+ОТЧЕТ ПО ИССЛЕДОВАНИЯМ ЦЕНТРА
+  ФУНДАМЕНТАЛЬНЫХ И ПРИКЛАДНЫХ
+  ИССЛЕДОВАНИЙ ФГУП <<ВНИИА>> в 2019 г. тема
+  <<Cочетание>> <<Совершенствование
+  физических моделей взаимодействия
+  излучений с веществом: создание модели
+  разрушительного ионного каскада в
+  конструкционных материалах,
+  индуцированного потоком нейтронов
+  деления>>.~: {Отчет}~: 70/778-T дсп~/ ВНИИА~;
+  {исполн.}: С.~Е.~Куратов, М.~В.~Косов,
+  Д.~И.~Савин, А.~А.~Галюзов~: 2019.
+
+\bibitem{PDG}
+\selectlanguageifdefined{english}
+Review of Particle Physics~/ M.~Tanabashi, K.~Hagiwara, K.~Hikasa et~al.~//
+  \href{http://dx.doi.org/10.1103/PhysRevD.98.030001}{\BibEmph{Phys. Rev. D}}.
+  \BibDash
+\newblock 2018. \BibDash Aug. \BibDash
+\newblock Vol.~98. \BibDash
+\newblock P.~030001. \BibDash
+\newblock Access mode:
+  \BibUrl{https://link.aps.org/doi/10.1103/PhysRevD.98.030001}.
+
+\bibitem{DD1_Blair}
+\selectlanguageifdefined{english}
+J.~M.~Blair, G.~Freier, E.~Lampi et~al.~// \BibEmph{Phys. Rev.} \BibDash
+\newblock 1948. \BibDash
+\newblock Vol.~74. \BibDash
+\newblock P.~1594.
+
+\bibitem{DD2_Wilson}
+\selectlanguageifdefined{english}
+A.~S.~Wilson, M.~C.~Taylor, J.~C.~Legg, G.~C.~Phillips~// \BibEmph{Nucl. Phys.
+  A}. \BibDash
+\newblock 1969. \BibDash
+\newblock Vol. 126. \BibDash
+\newblock P.~193.
+
+\bibitem{DD3_Brolley}
+\selectlanguageifdefined{english}
+J.~E.~Brolley, T.~M.~Putnam, L.~Rosen, L.~Stewart~// \BibEmph{Phys. Rev.}
+  \BibDash
+\newblock 1960. \BibDash
+\newblock Vol. 117. \BibDash
+\newblock P.~1307.
+
+\bibitem{DD4_Burrows}
+\selectlanguageifdefined{english}
+\BibEmph{Burrows~H.~B., Gibson~W.~M., Rotblat~J.}~// \BibEmph{Proc. Royal
+  Society London, A}. \BibDash
+\newblock 1951. \BibDash
+\newblock Vol. 209. \BibDash
+\newblock P.~489.
+
+\bibitem{DD5_Nemec}
+\selectlanguageifdefined{english}
+O.~F.~Nemec, V.~V.~Ostashko, V.~N.~Urin, A.~M.~Jasnogorodskij~// \BibEmph{Ukr.
+  Fiz. Zh.} \BibDash
+\newblock 1985. \BibDash
+\newblock Vol.~30. \BibDash
+\newblock P.~328.
+
+\bibitem{DD6_Rosen1}
+\selectlanguageifdefined{english}
+\BibEmph{Rosen~L., Tallmadge~F.~K., Williams~J.~H.}~// \BibEmph{Phys. Rev.}
+  \BibDash
+\newblock 1949. \BibDash
+\newblock Vol.~76. \BibDash
+\newblock P.~1283.
+
+\bibitem{DD7_Rosen2}
+\selectlanguageifdefined{english}
+\BibEmph{Rosen~L., Allred~J.~C.}~// \BibEmph{Phys. Rev.} \BibDash
+\newblock 1952. \BibDash
+\newblock Vol.~88. \BibDash
+\newblock P.~431.
+
+\bibitem{DD8_Allred}
+\selectlanguageifdefined{english}
+J.~C.~Allred, K.~W.~Erickson, J.~L.~Fowler, E.~J.~Stovall~// \BibEmph{Phys.
+  Rev.} \BibDash
+\newblock 1949. \BibDash
+\newblock Vol.~76. \BibDash
+\newblock P.~1430.
+
+\bibitem{DD9_Jarmie}
+\selectlanguageifdefined{english}
+\BibEmph{Jarmie~N., Jett~J.~H.} Accurate deuteron-deuteron elastic scattering
+  cross sections~// Conf. on Few-Particle Problems, Los Angeles. \BibDash
+\newblock 1972. \BibDash
+\newblock P.~659.
+
+\bibitem{DD10_Okihana}
+\selectlanguageifdefined{english}
+A.~Okihana, N.~Fujiwara, H.~Nakamura-Yokota et~al.~// \BibEmph{Jour. of the
+  Physical Society of Japan}. \BibDash
+\newblock 1979. \BibDash
+\newblock Vol.~46. \BibDash
+\newblock P.~707.
+
+\bibitem{DD11_Itoh}
+\selectlanguageifdefined{english}
+\BibEmph{Itoh~H.}~// \BibEmph{Progress of Theoretical Physics}. \BibDash
+\newblock 1968. \BibDash
+\newblock Vol.~39. \BibDash
+\newblock P.~1361.
+
+\bibitem{DD_Oers}
+\selectlanguageifdefined{english}
+\BibEmph{van Oers~W.T.H., Arnold~H., Jr.~K.W.~Brockman}~// \BibEmph{Nucl.
+  Phys.} \BibDash
+\newblock 1963. \BibDash
+\newblock Vol.~46. \BibDash
+\newblock P.~611--616.
+
+\bibitem{DD12_Beliuskina}
+\selectlanguageifdefined{english}
+O.~O.~Beliuskina, V.~I.~Grantsev, K.~K.~Kisurin et~al.~// \BibEmph{Vopr. Atomn.
+  Nauki i Tekhn., Ser. Yad. Fiz. Issledo.} \BibDash
+\newblock 2011. \BibDash
+\newblock Vol.~5. \BibDash
+\newblock P.~10.
+
+\bibitem{DD13_Alderliesten}
+\selectlanguageifdefined{english}
+C.~Alderliesten, A.~Djaloeis, J.~Bojowald et~al.~// \BibEmph{Phys. Rev. C}.
+  \BibDash
+\newblock 1978. \BibDash
+\newblock Vol.~18. \BibDash
+\newblock P.~2001.
+
+\bibitem{DD14_Brueckmann}
+\selectlanguageifdefined{english}
+H.~Brueckmann, E.~L.~Haase, W.~Kluge, L.~Schaenzler~// \BibEmph{Zeitschrift
+  fuer Physik}. \BibDash
+\newblock 1970. \BibDash
+\newblock Vol. 230. \BibDash
+\newblock P.~383.
+
+\bibitem{DD15_Micherdzinska}
+\selectlanguageifdefined{english}
+A.~M.~Micherdzinska, P.~V.~Pancella, E.~J.~Stephenson et~al.~// \BibEmph{Phys.
+  Rev. C}. \BibDash
+\newblock 2007. \BibDash
+\newblock Vol.~75. \BibDash
+\newblock P.~054001.
+
+\bibitem{SRIM}
+\selectlanguageifdefined{english}
+\BibEmph{Ziegler~J.~F., Ziegler~M.~D., Biersack~J.~P.} SRIM - The stopping and
+  range ions in matter (2010)~// \BibEmph{Nucl. Instr. and Meth. in Phys.
+  Research B}. \BibDash
+\newblock 2010. \BibDash
+\newblock Vol. 268. \BibDash
+\newblock P.~1818.
+
+\bibitem{LandauLifshitzMechanics}
+\selectlanguageifdefined{russian}
+\BibEmph{Ландау~Л.~Д., Лифшиц~Е.~М.} Механика. \BibDash
+\newblock М.: Наука, 1988.
+
+\bibitem{LandauLifshitzNonrelativisticQM}
+\selectlanguageifdefined{russian}
+\BibEmph{Ландау~Л.~Д., Лифшиц~Е.~М.} Квантовая
+  механика. Нерелятивистская теория. \BibDash
+\newblock М.: Наука, 1989.
+
+\end{thebibliography}
